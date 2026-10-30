@@ -1,0 +1,357 @@
+{
+  "exams": {
+    "2023": {
+      "label": "2023–2024 chính thức",
+      "official": true,
+      "items": 40,
+      "sections": {
+        "I": {
+          "items": 14,
+          "points": 3.5
+        },
+        "II": {
+          "items": 2,
+          "points": 0.5
+        },
+        "III": {
+          "items": 6,
+          "points": 1.5
+        },
+        "IV": {
+          "items": 6,
+          "points": 1.5
+        },
+        "V": {
+          "items": 6,
+          "points": 1.5
+        },
+        "VI": {
+          "items": 2,
+          "points": 0.5
+        },
+        "VII": {
+          "items": 4,
+          "points": 1.0
+        }
+      },
+      "skills": {
+        "Pronunciation": 2,
+        "Stress": 2,
+        "Grammar": 6,
+        "Vocabulary": 2,
+        "Communication": 2,
+        "Sign/Notice": 2,
+        "Cloze": 6,
+        "Reading": 6,
+        "Word formation": 6,
+        "Sentence construction": 2,
+        "Sentence transformation": 4
+      },
+      "cognitive": {
+        "Recognition": 6,
+        "Application": 18,
+        "Inference": 10,
+        "Production": 6
+      },
+      "grammar_topics": {
+        "connector": 2,
+        "preposition": 2,
+        "relative clause": 1,
+        "verb pattern": 1,
+        "tense/verb form": 2,
+        "comparison": 2
+      },
+      "mcq_answers": {
+        "B": 6,
+        "D": 6,
+        "C": 6,
+        "A": 6
+      },
+      "tf_answers": {
+        "True": 2,
+        "False": 2
+      }
+    },
+    "2024": {
+      "label": "2024–2025 chính thức",
+      "official": true,
+      "items": 40,
+      "sections": {
+        "I": {
+          "items": 14,
+          "points": 3.5
+        },
+        "II": {
+          "items": 2,
+          "points": 0.5
+        },
+        "III": {
+          "items": 6,
+          "points": 1.5
+        },
+        "IV": {
+          "items": 6,
+          "points": 1.5
+        },
+        "V": {
+          "items": 6,
+          "points": 1.5
+        },
+        "VI": {
+          "items": 2,
+          "points": 0.5
+        },
+        "VII": {
+          "items": 4,
+          "points": 1.0
+        }
+      },
+      "skills": {
+        "Pronunciation": 2,
+        "Stress": 2,
+        "Grammar": 7,
+        "Vocabulary": 1,
+        "Communication": 2,
+        "Sign/Notice": 2,
+        "Cloze": 6,
+        "Reading": 6,
+        "Word formation": 6,
+        "Sentence construction": 2,
+        "Sentence transformation": 4
+      },
+      "cognitive": {
+        "Recognition": 5,
+        "Application": 19,
+        "Inference": 10,
+        "Production": 6
+      },
+      "grammar_topics": {
+        "wish": 1,
+        "causative": 1,
+        "preposition": 2,
+        "tag question": 1,
+        "connector": 1,
+        "verb pattern": 1,
+        "tense/verb form": 1,
+        "relative clause": 1,
+        "determiner": 1
+      },
+      "mcq_answers": {
+        "C": 8,
+        "B": 6,
+        "A": 6,
+        "D": 4
+      },
+      "tf_answers": {
+        "False": 2,
+        "True": 2
+      }
+    },
+    "2025": {
+      "label": "2025–2026 chính thức",
+      "official": true,
+      "items": 40,
+      "sections": {
+        "I": {
+          "items": 14,
+          "points": 3.5
+        },
+        "II": {
+          "items": 2,
+          "points": 0.5
+        },
+        "III": {
+          "items": 6,
+          "points": 1.5
+        },
+        "IV": {
+          "items": 6,
+          "points": 1.5
+        },
+        "V": {
+          "items": 6,
+          "points": 1.5
+        },
+        "VI": {
+          "items": 2,
+          "points": 0.5
+        },
+        "VII": {
+          "items": 4,
+          "points": 1.0
+        }
+      },
+      "skills": {
+        "Pronunciation": 2,
+        "Stress": 2,
+        "Vocabulary": 2,
+        "Grammar": 6,
+        "Communication": 2,
+        "Sign/Notice": 2,
+        "Cloze": 6,
+        "Reading": 6,
+        "Word formation": 6,
+        "Sentence construction": 2,
+        "Sentence transformation": 4
+      },
+      "cognitive": {
+        "Recognition": 6,
+        "Application": 18,
+        "Inference": 10,
+        "Production": 6
+      },
+      "grammar_topics": {
+        "preposition": 3,
+        "tense/verb form": 1,
+        "verb pattern": 2,
+        "connector": 1,
+        "relative clause": 1,
+        "quantifier": 1,
+        "comparison": 1
+      },
+      "mcq_answers": {
+        "D": 3,
+        "C": 8,
+        "A": 7,
+        "B": 6
+      },
+      "tf_answers": {
+        "True": 2,
+        "False": 2
+      }
+    },
+    "2026R": {
+      "label": "2026 đề tham khảo",
+      "official": false,
+      "items": 40,
+      "sections": {
+        "I": {
+          "items": 14,
+          "points": 3.5
+        },
+        "II": {
+          "items": 2,
+          "points": 0.5
+        },
+        "III": {
+          "items": 6,
+          "points": 1.5
+        },
+        "IV": {
+          "items": 6,
+          "points": 1.5
+        },
+        "V": {
+          "items": 6,
+          "points": 1.5
+        },
+        "VI": {
+          "items": 2,
+          "points": 0.5
+        },
+        "VII": {
+          "items": 4,
+          "points": 1.0
+        }
+      },
+      "skills": {
+        "Pronunciation": 2,
+        "Stress": 2,
+        "Grammar": 4,
+        "Vocabulary": 4,
+        "Communication": 2,
+        "Sign/Notice": 2,
+        "Cloze": 6,
+        "Reading": 6,
+        "Word formation": 6,
+        "Sentence construction": 2,
+        "Sentence transformation": 4
+      },
+      "cognitive": {
+        "Recognition": 8,
+        "Application": 16,
+        "Inference": 10,
+        "Production": 6
+      },
+      "grammar_topics": {
+        "preposition": 2,
+        "connector": 2,
+        "tense/verb form": 2,
+        "relative clause": 1,
+        "comparison": 1
+      },
+      "mcq_answers": {
+        "B": 3,
+        "A": 7,
+        "D": 6,
+        "C": 8
+      },
+      "tf_answers": {
+        "True": 3,
+        "False": 1
+      }
+    }
+  },
+  "overall": {
+    "items": 160,
+    "skills": {
+      "Pronunciation": 8,
+      "Stress": 8,
+      "Grammar": 23,
+      "Vocabulary": 9,
+      "Communication": 8,
+      "Sign/Notice": 8,
+      "Cloze": 24,
+      "Reading": 24,
+      "Word formation": 24,
+      "Sentence construction": 8,
+      "Sentence transformation": 16
+    },
+    "cognitive": {
+      "Recognition": 25,
+      "Application": 71,
+      "Inference": 40,
+      "Production": 24
+    },
+    "sections": {
+      "I": {
+        "items": 56,
+        "points_per_paper": 3.5
+      },
+      "II": {
+        "items": 8,
+        "points_per_paper": 0.5
+      },
+      "III": {
+        "items": 24,
+        "points_per_paper": 1.5
+      },
+      "IV": {
+        "items": 24,
+        "points_per_paper": 1.5
+      },
+      "V": {
+        "items": 24,
+        "points_per_paper": 1.5
+      },
+      "VI": {
+        "items": 8,
+        "points_per_paper": 0.5
+      },
+      "VII": {
+        "items": 16,
+        "points_per_paper": 1.0
+      }
+    },
+    "mcq_answers": {
+      "B": 21,
+      "D": 19,
+      "C": 30,
+      "A": 26
+    },
+    "tf_answers": {
+      "True": 9,
+      "False": 7
+    }
+  }
+}

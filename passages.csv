@@ -1,0 +1,9 @@
+﻿exam_id,kind,topic,words,sentences,avg_sentence_length,type_token_ratio,flesch_reading_ease,flesch_kincaid_grade,syllables_per_word
+2023,cloze,Life on the moon (science),228,24,9.5,0.526,92.2,2.8,1.24
+2023,reading,Mother's Day (family/culture),239,17,14.1,0.556,75.0,6.3,1.39
+2024,cloze,Da Nang tourism (places/travel),121,7,17.3,0.777,39.7,12.0,1.77
+2024,reading,Energy conservation (environment),200,8,25.0,0.66,49.9,12.5,1.55
+2025,cloze,School cooking club for the elderly (community),196,15,13.1,0.694,74.0,6.2,1.41
+2025,reading,Teenagers and sports (health/lifestyle),198,15,13.2,0.682,60.1,8.2,1.58
+2026R,cloze,Deepfake / AI (technology),139,9,15.4,0.727,42.0,11.2,1.76
+2026R,reading,Mountain hiking on Cliff Trail (travel/outdoors),200,11,18.2,0.655,79.2,6.7,1.29

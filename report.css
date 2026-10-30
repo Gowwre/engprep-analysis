@@ -1,0 +1,381 @@
+:root {
+  --paper: #f6f1e6;
+  --paper-deep: #eee6d5;
+  --surface: #fffdf8;
+  --surface-2: #faf5ea;
+  --ink: #20261f;
+  --muted: #626a5f;
+  --line: #d9d1c1;
+  --clay: #b0472a;
+  --clay-bg: #f8e6dd;
+  --jade: #1f6b4f;
+  --gold: #e0a92f;
+  --code-bg: #23291f;
+  --code-fg: #f6f1e6;
+  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  --font-body: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 24px;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background-color: var(--paper);
+  background-image: radial-gradient(rgba(32, 38, 31, 0.1) 1px, transparent 1.2px);
+  background-size: 24px 24px;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.page {
+  max-width: 1080px;
+  margin: 44px auto 64px;
+  padding: 56px clamp(24px, 5vw, 72px) 64px;
+  background: rgba(255, 253, 248, 0.9);
+  border: 1px solid var(--line);
+  border-radius: 26px;
+  box-shadow: 0 28px 70px rgba(35, 42, 34, 0.14);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  line-height: 1.2;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+h1 {
+  margin: 0 0 0.25rem;
+  font-size: clamp(2rem, 3.4vw, 2.7rem);
+  letter-spacing: -0.025em;
+}
+
+.report-title {
+  margin-bottom: 2.4rem;
+}
+
+.report-title .kicker {
+  margin: 0 0 1rem;
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  color: var(--clay);
+}
+
+.report-title .subtitle {
+  margin: 0 0 0.55rem;
+  font-family: var(--font-body);
+  font-size: clamp(1rem, 1.6vw, 1.18rem);
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.report-title .meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+}
+
+h2 {
+  margin: 3.2rem 0 1rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--line);
+  font-size: clamp(1.35rem, 2.2vw, 1.65rem);
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  margin: 2.2rem 0 0.7rem;
+  font-size: clamp(1.1rem, 1.7vw, 1.26rem);
+  color: var(--jade);
+}
+
+h4 {
+  margin: 1.6rem 0 0.5rem;
+  font-size: 1.02rem;
+}
+
+p {
+  margin: 0.75rem 0;
+}
+
+strong {
+  color: #151a14;
+}
+
+a {
+  color: var(--clay);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: #8e2f1b;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--clay-bg);
+  border-left: 4px solid var(--clay);
+  border-radius: 0 14px 14px 0;
+  color: #3c2a22;
+  font-size: 0.95rem;
+}
+
+blockquote p {
+  margin: 0.35rem 0;
+}
+
+ul,
+ol {
+  padding-left: 1.35rem;
+}
+
+li {
+  margin: 0.28rem 0;
+}
+
+hr {
+  margin: 2.6rem 0;
+  border: 0;
+  border-top: 1px dashed var(--line);
+}
+
+code {
+  padding: 0.12em 0.35em;
+  border: 1px solid #e4d5bf;
+  border-radius: 6px;
+  background: #f3e9d8;
+  color: #8e2f1b;
+  font-family: var(--font-mono);
+  font-size: 0.84em;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem 1.15rem;
+  border-radius: 14px;
+  background: var(--code-bg);
+  color: var(--code-fg);
+}
+
+pre code {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+}
+
+table {
+  width: 100%;
+  margin: 1.4rem 0 1.8rem;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+
+thead th {
+  padding: 0.65rem 0.7rem;
+  border-bottom: 2px solid #c7bca6;
+  background: var(--paper-deep);
+  color: #2a3028;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-transform: uppercase;
+  vertical-align: bottom;
+}
+
+tbody td {
+  padding: 0.58rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: rgba(238, 230, 213, 0.38);
+}
+
+tbody tr:hover {
+  background: var(--clay-bg);
+}
+
+td:first-child,
+th:first-child {
+  padding-left: 0.9rem;
+}
+
+td:last-child,
+th:last-child {
+  padding-right: 0.9rem;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 1.8rem auto;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: 0 14px 36px rgba(35, 42, 34, 0.1);
+}
+
+#TOC {
+  margin: 2.2rem 0 2.8rem;
+  padding: 1.2rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface-2);
+  font-size: 0.9rem;
+}
+
+#TOC::before {
+  display: block;
+  margin-bottom: 0.7rem;
+  content: "MỤC LỤC";
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: var(--clay);
+}
+
+#TOC ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  list-style: none;
+}
+
+#TOC > ul {
+  padding-left: 0;
+  columns: 2;
+  column-gap: 2rem;
+}
+
+#TOC li {
+  margin: 0.3rem 0;
+  break-inside: avoid;
+}
+
+#TOC a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+#TOC a:hover {
+  color: var(--clay);
+  text-decoration: underline;
+}
+
+.report-footer {
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.report-footer p {
+  margin: 0;
+}
+
+@media (max-width: 760px) {
+  .page {
+    margin: 0;
+    padding: 28px 18px 44px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: rgba(255, 253, 248, 0.94);
+  }
+
+  h1 {
+    font-size: 1.85rem;
+  }
+
+  .report-title .subtitle {
+    font-size: 1rem;
+  }
+
+  h2 {
+    margin-top: 2.3rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  #TOC > ul {
+    columns: 1;
+  }
+}
+
+@media print {
+  html {
+    scroll-padding-top: 0;
+  }
+
+  body {
+    background: #fff;
+    font-size: 10.5pt;
+  }
+
+  .page {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: #fff;
+  }
+
+  .report-title .kicker {
+    color: #000;
+  }
+
+  h2 {
+    page-break-after: avoid;
+  }
+
+  h3,
+  table,
+  img,
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  #TOC {
+    page-break-after: always;
+  }
+}

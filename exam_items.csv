@@ -1,0 +1,161 @@
+﻿exam_id,exam_label,official,item,section,format,skill_group,subskill,grammar_topic,cognitive,answer,key_status,confidence,points,note
+2023,2023–2024 chính thức,True,1,I,MCQ,Pronunciation,-ed ending,,Recognition,B,inferred,High,0.25,consisted /ɪd/; còn lại /t/ hoặc /d/
+2023,2023–2024 chính thức,True,2,I,MCQ,Pronunciation,vowel <i>,,Recognition,B,inferred,High,0.25,lighting /aɪ/; còn lại /ɪ/
+2023,2023–2024 chính thức,True,3,I,MCQ,Stress,2-syllable stress,,Recognition,D,inferred,High,0.25,eager nhấn âm 1; còn lại âm 2
+2023,2023–2024 chính thức,True,4,I,MCQ,Stress,3-syllable stress,,Recognition,B,inferred,High,0.25,responses nhấn âm 2; còn lại âm 1
+2023,2023–2024 chính thức,True,5,I,MCQ,Grammar,conjunction,connector,Application,B,inferred,High,0.25,both ... and
+2023,2023–2024 chính thức,True,6,I,MCQ,Grammar,preposition of time,preposition,Application,C,inferred,High,0.25,on + ngày
+2023,2023–2024 chính thức,True,7,I,MCQ,Vocabulary,natural disaster,,Recognition,B,inferred,High,0.25,disaster
+2023,2023–2024 chính thức,True,8,I,MCQ,Grammar,preposition,preposition,Application,C,inferred,High,0.25,between
+2023,2023–2024 chính thức,True,9,I,MCQ,Grammar,relative pronoun,relative clause,Application,A,inferred,High,0.25,who cho người
+2023,2023–2024 chính thức,True,10,I,MCQ,Grammar,verb pattern,verb pattern,Application,A,inferred,High,0.25,encourage sb to do
+2023,2023–2024 chính thức,True,11,I,MCQ,Grammar,present continuous,tense/verb form,Application,D,inferred,High,0.25,is getting on
+2023,2023–2024 chính thức,True,12,I,MCQ,Vocabulary,abstract noun,,Recognition,C,inferred,High,0.25,inspiration
+2023,2023–2024 chính thức,True,13,I,MCQ,Communication,encouraging,,Inference,A,inferred,Medium,0.25,Good luck in the exam!
+2023,2023–2024 chính thức,True,14,I,MCQ,Communication,responding to apology,,Inference,D,inferred,High,0.25,That's OK. We've just started.
+2023,2023–2024 chính thức,True,15,II,MCQ,Sign/Notice,water safety notice,,Inference,D,inferred,Medium,0.25,Don't leave the tap on
+2023,2023–2024 chính thức,True,16,II,MCQ,Sign/Notice,contest notice,,Inference,D,inferred,High,0.25,300-word limit
+2023,2023–2024 chính thức,True,17,III,MCQ,Cloze,phrasal verb,,Application,A,inferred,High,0.25,found out
+2023,2023–2024 chính thức,True,18,III,MCQ,Cloze,conjunction,connector,Application,B,inferred,High,0.25,because
+2023,2023–2024 chính thức,True,19,III,MCQ,Cloze,noun,,Application,A,inferred,High,0.25,temperature
+2023,2023–2024 chính thức,True,20,III,MCQ,Cloze,superlative,comparison,Application,C,inferred,High,0.25,highest
+2023,2023–2024 chính thức,True,21,III,MCQ,Cloze,to-infinitive,tense/verb form,Application,D,inferred,High,0.25,something ... to know
+2023,2023–2024 chính thức,True,22,III,MCQ,Cloze,intensifier,comparison,Application,C,inferred,High,0.25,even higher
+2023,2023–2024 chính thức,True,23,IV,True/False,Reading,T/F - literal,,Inference,True,inferred,High,0.25,"5 người: bố, mẹ, 2 chị, 1 cậu"
+2023,2023–2024 chính thức,True,24,IV,True/False,Reading,T/F - detail,,Inference,False,inferred,High,0.25,về nhà sau bữa trưa
+2023,2023–2024 chính thức,True,25,IV,True/False,Reading,T/F - inference,,Inference,False,inferred,High,0.25,mẹ thường tự trang trí
+2023,2023–2024 chính thức,True,26,IV,True/False,Reading,T/F - detail,,Inference,True,inferred,High,0.25,cậu bé mua mũ
+2023,2023–2024 chính thức,True,27,IV,MCQ,Reading,main idea,,Inference,A,inferred,High,0.25,cách gia đình chuẩn bị
+2023,2023–2024 chính thức,True,28,IV,MCQ,Reading,detail/inference,,Inference,C,inferred,High,0.25,mẹ bận việc nhà
+2023,2023–2024 chính thức,True,29,V,Gap-fill,Word formation,adjective,,Application,beneficial,inferred,High,0.25,benefit → beneficial
+2023,2023–2024 chính thức,True,30,V,Gap-fill,Word formation,noun (person),,Application,contestant,inferred,High,0.25,contest → contestant
+2023,2023–2024 chính thức,True,31,V,Gap-fill,Word formation,adjective,,Application,homeless,inferred,High,0.25,home → homeless
+2023,2023–2024 chính thức,True,32,V,Gap-fill,Word formation,adverb,,Application,Nearly,inferred,High,0.25,near → Nearly
+2023,2023–2024 chính thức,True,33,V,Gap-fill,Word formation,noun,,Application,conclusion,inferred,High,0.25,conclude → conclusion
+2023,2023–2024 chính thức,True,34,V,Gap-fill,Word formation,verb (V-ing),,Application,surfing,inferred,High,0.25,surf → surfing
+2023,2023–2024 chính thức,True,35,VI,Rearrange,Sentence construction,sentence ordering,,Production,Nuclear power is not only expensive but also dangerous to our environment.,inferred,High,0.25,
+2023,2023–2024 chính thức,True,36,VI,Rearrange,Sentence construction,sentence ordering,,Production,The host band started off the concert by presenting a mashup of their hit songs.,inferred,High,0.25,
+2023,2023–2024 chính thức,True,37,VII,Rewrite,Sentence transformation,conditional type 1,,Production,"If you change the way you learn vocabulary, you can improve your English.",inferred,High,0.25,
+2023,2023–2024 chính thức,True,38,VII,Rewrite,Sentence transformation,reported speech / suggest,,Production,Robert suggested that those empty bottles be collected for recycling.,inferred,High,0.25,
+2023,2023–2024 chính thức,True,39,VII,Rewrite,Sentence transformation,result so ... that,,Production,"Tom is very lazy, so he can't get good marks at school.",inferred,High,0.25,
+2023,2023–2024 chính thức,True,40,VII,Rewrite,Sentence transformation,gerund collocation,,Production,Michael is fond of playing football after school.,inferred,High,0.25,
+2024,2024–2025 chính thức,True,1,I,MCQ,Pronunciation,-s ending,,Recognition,C,official,Official,0.25,predicts /s/; còn lại /z/
+2024,2024–2025 chính thức,True,2,I,MCQ,Pronunciation,vowel <a>,,Recognition,B,official,Official,0.25,campus /æ/; còn lại /eɪ/ hoặc /ə/
+2024,2024–2025 chính thức,True,3,I,MCQ,Stress,2-syllable stress,,Recognition,B,official,Official,0.25,visit nhấn âm 1; còn lại âm 2
+2024,2024–2025 chính thức,True,4,I,MCQ,Stress,3-syllable stress,,Recognition,A,official,Official,0.25,official nhấn âm 2; còn lại âm 1
+2024,2024–2025 chính thức,True,5,I,MCQ,Grammar,wish,wish,Application,D,official,Official,0.25,I wish you could go
+2024,2024–2025 chính thức,True,6,I,MCQ,Grammar,causative,causative,Application,A,official,Official,0.25,have sb do
+2024,2024–2025 chính thức,True,7,I,MCQ,Grammar,preposition,preposition,Application,C,official,Official,0.25,interested in
+2024,2024–2025 chính thức,True,8,I,MCQ,Grammar,tag question,tag question,Application,D,official,Official,0.25,aren't we?
+2024,2024–2025 chính thức,True,9,I,MCQ,Grammar,conjunction,connector,Application,C,official,Official,0.25,because
+2024,2024–2025 chính thức,True,10,I,MCQ,Grammar,verb pattern,verb pattern,Application,B,official,Official,0.25,forget to do
+2024,2024–2025 chính thức,True,11,I,MCQ,Grammar,present simple,tense/verb form,Application,A,official,Official,0.25,has two days off
+2024,2024–2025 chính thức,True,12,I,MCQ,Vocabulary,adjective,,Recognition,A,official,Official,0.25,terrific
+2024,2024–2025 chính thức,True,13,I,MCQ,Communication,accepting a suggestion,,Inference,B,official,Official,0.25,That sounds great!
+2024,2024–2025 chính thức,True,14,I,MCQ,Communication,giving permission,,Inference,C,official,Official,0.25,Of course. You can.
+2024,2024–2025 chính thức,True,15,II,MCQ,Sign/Notice,toilet notice,,Inference,C,official,Medium,0.25,không xả rác vào toilet
+2024,2024–2025 chính thức,True,16,II,MCQ,Sign/Notice,booking notice,,Inference,A,official,High,0.25,phải đặt trước
+2024,2024–2025 chính thức,True,17,III,MCQ,Cloze,adjective,,Application,B,official,Official,0.25,friendly
+2024,2024–2025 chính thức,True,18,III,MCQ,Cloze,noun,,Application,C,official,Official,0.25,beaches
+2024,2024–2025 chính thức,True,19,III,MCQ,Cloze,relative pronoun,relative clause,Application,D,official,Official,0.25,who
+2024,2024–2025 chính thức,True,20,III,MCQ,Cloze,noun,,Application,A,official,Official,0.25,festival
+2024,2024–2025 chính thức,True,21,III,MCQ,Cloze,determiner,determiner,Application,C,official,Official,0.25,another
+2024,2024–2025 chính thức,True,22,III,MCQ,Cloze,preposition,preposition,Application,D,official,Official,0.25,impression on
+2024,2024–2025 chính thức,True,23,IV,True/False,Reading,T/F - detail,,Inference,False,official,Official,0.25,"cần thiết, không phải không cần"
+2024,2024–2025 chính thức,True,24,IV,True/False,Reading,T/F - detail,,Inference,True,official,Official,0.25,
+2024,2024–2025 chính thức,True,25,IV,True/False,Reading,T/F - detail,,Inference,False,official,Official,0.25,năng lượng mặt trời dồi dào
+2024,2024–2025 chính thức,True,26,IV,True/False,Reading,T/F - inference,,Inference,True,official,Official,0.25,
+2024,2024–2025 chính thức,True,27,IV,MCQ,Reading,reference,,Inference,B,official,Official,0.25,them = electronics
+2024,2024–2025 chính thức,True,28,IV,MCQ,Reading,main idea,,Inference,C,official,Official,0.25,Let's save energy
+2024,2024–2025 chính thức,True,29,V,Gap-fill,Word formation,noun,,Application,preparation,official,Official,0.25,prepare → preparation
+2024,2024–2025 chính thức,True,30,V,Gap-fill,Word formation,adjective,,Application,experienced,official,Official,0.25,experience → experienced
+2024,2024–2025 chính thức,True,31,V,Gap-fill,Word formation,verb,,Application,beautify,official,Official,0.25,beauty → beautify
+2024,2024–2025 chính thức,True,32,V,Gap-fill,Word formation,adjective,,Application,effective,official,Official,0.25,effect → effective
+2024,2024–2025 chính thức,True,33,V,Gap-fill,Word formation,noun,,Application,assistance,official,Official,0.25,assist → assistance
+2024,2024–2025 chính thức,True,34,V,Gap-fill,Word formation,adverb,,Application,successfully,official,Official,0.25,succeed → successfully
+2024,2024–2025 chính thức,True,35,VI,Rearrange,Sentence construction,sentence ordering,,Production,"Every one of us should follow the example set by Uncle Hồ, our beloved leader.",official,Official,0.25,
+2024,2024–2025 chính thức,True,36,VI,Rearrange,Sentence construction,sentence ordering,,Production,Studying abroad gives students opportunities to learn about different cultures.,official,Official,0.25,
+2024,2024–2025 chính thức,True,37,VII,Rewrite,Sentence transformation,gerund collocation,,Production,The children are keen on making models of animals in their free time.,official,Official,0.25,
+2024,2024–2025 chính thức,True,38,VII,Rewrite,Sentence transformation,conditional type 2 / advice,,Production,"If I were you, I would go to the dentist twice a year.",official,Official,0.25,
+2024,2024–2025 chính thức,True,39,VII,Rewrite,Sentence transformation,present perfect since,,Production,It has been two years since she last participated in a competition.,official,Official,0.25,
+2024,2024–2025 chính thức,True,40,VII,Rewrite,Sentence transformation,reason clause,,Production,"Because he performed well, he was nominated as Singer of the Year.",official,Official,0.25,
+2025,2025–2026 chính thức,True,1,I,MCQ,Pronunciation,-ed ending,,Recognition,D,inferred,High,0.25,attacked /t/; còn lại /d/
+2025,2025–2026 chính thức,True,2,I,MCQ,Pronunciation,vowel <a>,,Recognition,C,inferred,High,0.25,lack /æ/; còn lại /eɪ/
+2025,2025–2026 chính thức,True,3,I,MCQ,Stress,2-syllable stress,,Recognition,A,inferred,High,0.25,answer nhấn âm 1; còn lại âm 2
+2025,2025–2026 chính thức,True,4,I,MCQ,Stress,3-syllable stress,,Recognition,B,inferred,High,0.25,tradition nhấn âm 2; còn lại âm 1
+2025,2025–2026 chính thức,True,5,I,MCQ,Vocabulary,phrasal verb,,Recognition,B,inferred,High,0.25,look them up
+2025,2025–2026 chính thức,True,6,I,MCQ,Grammar,preposition of time,preposition,Application,A,inferred,High,0.25,on + ngày
+2025,2025–2026 chính thức,True,7,I,MCQ,Grammar,past simple,tense/verb form,Application,C,inferred,High,0.25,went
+2025,2025–2026 chính thức,True,8,I,MCQ,Grammar,verb choice,verb pattern,Application,B,inferred,High,0.25,prefer
+2025,2025–2026 chính thức,True,9,I,MCQ,Grammar,conjunction,connector,Application,C,inferred,High,0.25,but
+2025,2025–2026 chính thức,True,10,I,MCQ,Grammar,relative pronoun,relative clause,Application,C,inferred,High,0.25,that
+2025,2025–2026 chính thức,True,11,I,MCQ,Vocabulary,adjective,,Recognition,D,inferred,High,0.25,excited
+2025,2025–2026 chính thức,True,12,I,MCQ,Grammar,preposition,preposition,Application,A,inferred,High,0.25,for a walk
+2025,2025–2026 chính thức,True,13,I,MCQ,Communication,accepting a suggestion,,Inference,A,inferred,High,0.25,Let's do it!
+2025,2025–2026 chính thức,True,14,I,MCQ,Communication,asking about time,,Inference,C,inferred,High,0.25,What time does the movie start?
+2025,2025–2026 chính thức,True,15,II,MCQ,Sign/Notice,water safety sign,,Inference,A,inferred,Medium,0.25,không được nhảy xuống nước
+2025,2025–2026 chính thức,True,16,II,MCQ,Sign/Notice,canteen promotion,,Inference,C,inferred,High,0.25,"mua trà sữa, tặng cookie thứ Ba"
+2025,2025–2026 chính thức,True,17,III,MCQ,Cloze,preposition,preposition,Application,B,inferred,High,0.25,as a hobby
+2025,2025–2026 chính thức,True,18,III,MCQ,Cloze,verb,,Application,C,inferred,High,0.25,joined
+2025,2025–2026 chính thức,True,19,III,MCQ,Cloze,quantifier,quantifier,Application,A,inferred,High,0.25,Some of the elderly
+2025,2025–2026 chính thức,True,20,III,MCQ,Cloze,noun,,Application,D,inferred,High,0.25,recipes
+2025,2025–2026 chính thức,True,21,III,MCQ,Cloze,verb pattern,verb pattern,Application,C,inferred,High,0.25,listening to
+2025,2025–2026 chính thức,True,22,III,MCQ,Cloze,comparative,comparison,Application,B,inferred,High,0.25,better
+2025,2025–2026 chính thức,True,23,IV,True/False,Reading,T/F - literal,,Inference,True,inferred,High,0.25,
+2025,2025–2026 chính thức,True,24,IV,True/False,Reading,T/F - detail,,Inference,False,inferred,High,0.25,thể thao giúp tập trung
+2025,2025–2026 chính thức,True,25,IV,True/False,Reading,T/F - detail,,Inference,False,inferred,High,0.25,thể thao giảm stress
+2025,2025–2026 chính thức,True,26,IV,True/False,Reading,T/F - detail,,Inference,True,inferred,High,0.25,
+2025,2025–2026 chính thức,True,27,IV,MCQ,Reading,main idea,,Inference,B,inferred,High,0.25,lợi ích thể thao
+2025,2025–2026 chính thức,True,28,IV,MCQ,Reading,NOT mentioned,,Inference,A,inferred,High,0.25,chế độ ăn cân bằng không có trong bài
+2025,2025–2026 chính thức,True,29,V,Gap-fill,Word formation,noun,,Application,attraction,inferred,High,0.25,attract → attraction
+2025,2025–2026 chính thức,True,30,V,Gap-fill,Word formation,adjective,,Application,pleasant,inferred,High,0.25,please → pleasant
+2025,2025–2026 chính thức,True,31,V,Gap-fill,Word formation,verb (V-ing),,Application,preparing,inferred,High,0.25,prepare → preparing
+2025,2025–2026 chính thức,True,32,V,Gap-fill,Word formation,adverb,,Application,Amazingly,inferred,High,0.25,amaze → Amazingly
+2025,2025–2026 chính thức,True,33,V,Gap-fill,Word formation,noun (plural),,Application,scientists,inferred,High,0.25,science → scientists
+2025,2025–2026 chính thức,True,34,V,Gap-fill,Word formation,adjective,,Application,damaging,inferred,High,0.25,damage → damaging
+2025,2025–2026 chính thức,True,35,VI,Dictionary gap-fill,Sentence construction,dictionary use,,Production,provide information,inferred,Medium,0.25,2 từ; theo entry 'provide'
+2025,2025–2026 chính thức,True,36,VI,Dictionary gap-fill,Sentence construction,dictionary use,,Production,provides an opportunity,inferred,Medium,0.25,3 từ; theo entry 'provide'
+2025,2025–2026 chính thức,True,37,VII,Rewrite,Sentence transformation,phrasal verb,,Production,Our car broke down on the way to the beach.,inferred,High,0.25,
+2025,2025–2026 chính thức,True,38,VII,Rewrite,Sentence transformation,conditional type 1 / unless,,Production,"Unless he catches the first metro, he will be late for the conference.",inferred,High,0.25,
+2025,2025–2026 chính thức,True,39,VII,Rewrite,Sentence transformation,present perfect since,,Production,She hasn't written to her grandparents since last April.,inferred,High,0.25,
+2025,2025–2026 chính thức,True,40,VII,Rewrite,Sentence transformation,result such ... that,,Production,It was such awful weather that we couldn't go picnicking as planned.,inferred,High,0.25,
+2026R,2026 đề tham khảo,False,1,I,MCQ,Pronunciation,-ed ending,,Recognition,B,inferred,High,0.25,frightened /d/; còn lại /ɪd/
+2026R,2026 đề tham khảo,False,2,I,MCQ,Pronunciation,vowel <e>,,Recognition,A,inferred,High,0.25,chemist /k/; còn lại /s/
+2026R,2026 đề tham khảo,False,3,I,MCQ,Stress,2-syllable stress,,Recognition,A,inferred,High,0.25,listen nhấn âm 1; còn lại âm 2
+2026R,2026 đề tham khảo,False,4,I,MCQ,Stress,3-syllable stress,,Recognition,D,inferred,High,0.25,important nhấn âm 2; còn lại âm 1
+2026R,2026 đề tham khảo,False,5,I,MCQ,Grammar,preposition of place,preposition,Application,A,inferred,High,0.25,in the fridge
+2026R,2026 đề tham khảo,False,6,I,MCQ,Grammar,conjunction,connector,Application,D,inferred,High,0.25,or
+2026R,2026 đề tham khảo,False,7,I,MCQ,Grammar,past simple,tense/verb form,Application,C,inferred,High,0.25,went
+2026R,2026 đề tham khảo,False,8,I,MCQ,Vocabulary,collocation,,Recognition,A,inferred,High,0.25,traffic jams
+2026R,2026 đề tham khảo,False,9,I,MCQ,Vocabulary,adjective,,Recognition,C,inferred,High,0.25,honest
+2026R,2026 đề tham khảo,False,10,I,MCQ,Grammar,relative pronoun,relative clause,Application,C,inferred,High,0.25,that
+2026R,2026 đề tham khảo,False,11,I,MCQ,Vocabulary,noun,,Recognition,B,inferred,High,0.25,subtitles
+2026R,2026 đề tham khảo,False,12,I,MCQ,Vocabulary,adjective,,Recognition,A,inferred,High,0.25,convenient
+2026R,2026 đề tham khảo,False,13,I,MCQ,Communication,asking about health,,Inference,B,inferred,High,0.25,What's the matter with you?
+2026R,2026 đề tham khảo,False,14,I,MCQ,Communication,declining an offer,,Inference,D,inferred,High,0.25,"No, thanks"
+2026R,2026 đề tham khảo,False,15,II,MCQ,Sign/Notice,e-cigarette ban,,Inference,C,inferred,High,0.25,E-cigarettes are not allowed
+2026R,2026 đề tham khảo,False,16,II,MCQ,Sign/Notice,sale notice,,Inference,C,inferred,High,0.25,half price for two weeks = 14 days
+2026R,2026 đề tham khảo,False,17,III,MCQ,Cloze,to-infinitive,tense/verb form,Application,C,inferred,High,0.25,make sb appear
+2026R,2026 đề tham khảo,False,18,III,MCQ,Cloze,comparative,comparison,Application,D,inferred,High,0.25,easier to spread
+2026R,2026 đề tham khảo,False,19,III,MCQ,Cloze,conjunction,connector,Application,A,inferred,High,0.25,When
+2026R,2026 đề tham khảo,False,20,III,MCQ,Cloze,noun,,Application,C,inferred,Medium,0.25,damage a person's fame/reputation
+2026R,2026 đề tham khảo,False,21,III,MCQ,Cloze,preposition,preposition,Application,C,inferred,High,0.25,effect on
+2026R,2026 đề tham khảo,False,22,III,MCQ,Cloze,adverb / linker,,Application,D,inferred,Medium,0.25,loại trừ; các phương án còn lại sai nghĩa
+2026R,2026 đề tham khảo,False,23,IV,True/False,Reading,T/F - detail,,Inference,True,inferred,High,0.25,pitons là dụng cụ leo núi
+2026R,2026 đề tham khảo,False,24,IV,True/False,Reading,T/F - detail,,Inference,False,inferred,High,0.25,xuất phát gần đỉnh
+2026R,2026 đề tham khảo,False,25,IV,True/False,Reading,T/F - detail,,Inference,True,inferred,High,0.25,"xuống, lên, ngang sườn núi"
+2026R,2026 đề tham khảo,False,26,IV,True/False,Reading,T/F - detail,,Inference,True,inferred,High,0.25,đỉnh lúc 3 giờ chiều
+2026R,2026 đề tham khảo,False,27,IV,MCQ,Reading,best title,,Inference,D,inferred,High,0.25,Cliff Trail – The Hike of A Lifetime
+2026R,2026 đề tham khảo,False,28,IV,MCQ,Reading,feeling/inference,,Inference,A,inferred,High,0.25,fear and excitement
+2026R,2026 đề tham khảo,False,29,V,Gap-fill,Word formation,adjective,,Application,global,inferred,High,0.25,globe → global
+2026R,2026 đề tham khảo,False,30,V,Gap-fill,Word formation,verb (V-ing),,Application,entertaining,inferred,High,0.25,entertain → entertaining
+2026R,2026 đề tham khảo,False,31,V,Gap-fill,Word formation,adjective,,Application,patient,inferred,High,0.25,patience → patient
+2026R,2026 đề tham khảo,False,32,V,Gap-fill,Word formation,noun,,Application,exhibition,inferred,High,0.25,exhibit → exhibition
+2026R,2026 đề tham khảo,False,33,V,Gap-fill,Word formation,adverb,,Application,illegally,inferred,High,0.25,legal → illegally
+2026R,2026 đề tham khảo,False,34,V,Gap-fill,Word formation,noun (plural),,Application,explorers,inferred,High,0.25,explore → explorers
+2026R,2026 đề tham khảo,False,35,VI,Phrase bank,Sentence construction,lexical chunk,,Production,break the habit,inferred,High,0.25,cụm cố định
+2026R,2026 đề tham khảo,False,36,VI,Phrase bank,Sentence construction,lexical chunk,,Production,eating habits,inferred,High,0.25,cụm cố định
+2026R,2026 đề tham khảo,False,37,VII,Rewrite,Sentence transformation,wish,,Production,Brenda wishes she had her own locker at school.,inferred,High,0.25,
+2026R,2026 đề tham khảo,False,38,VII,Rewrite,Sentence transformation,mind + V-ing,,Production,Lucie doesn't mind helping her friends with exercises after class.,inferred,High,0.25,
+2026R,2026 đề tham khảo,False,39,VII,Rewrite,Sentence transformation,phrasal verb,,Production,The shop has run out of roses.,inferred,High,0.25,
+2026R,2026 đề tham khảo,False,40,VII,Rewrite,Sentence transformation,contrast although/despite,,Production,"Although the project was practical, nobody wanted to carry it out.",inferred,High,0.25,
