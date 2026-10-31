@@ -30,7 +30,7 @@ GOLD = "#C9A227"
 
 plt.rcParams.update(
     {
-        "font.family": "DejaVu Sans",
+        "font.family": "Noto Sans",
         "font.size": 11,
         "axes.unicode_minus": False,
         "figure.facecolor": BG,
@@ -93,9 +93,9 @@ def title_block(ax: plt.Axes, title: str, subtitle: str) -> None:
 sections = [
     ("I", "I. Ngữ âm, ngữ pháp,\ntừ vựng, giao tiếp", 14, 3.5),
     ("II", "II. Biển báo /\nthông báo", 2, 0.5),
-    ("III", "III. Cloze test", 6, 1.5),
+    ("III", "III. Điền khuyết", 6, 1.5),
     ("IV", "IV. Đọc hiểu", 6, 1.5),
-    ("V", "V. Word formation", 6, 1.5),
+    ("V", "V. Cấu tạo từ", 6, 1.5),
     ("VI", "VI. Sắp xếp câu /\ntừ điển / cụm từ", 2, 0.5),
     ("VII", "VII. Viết lại câu", 4, 1.0),
 ]
@@ -121,19 +121,19 @@ ax.set_xlabel("Điểm trên thang 10")
 title_block(
     ax,
     "Cấu trúc đề: 40 câu · 10 điểm · 90 phút",
-    "Mỗi câu 0,25 điểm. Tỉ lệ này giống nhau ở cả 4 đề.",
+    "Mỗi câu 0,25 điểm. Tỉ lệ này giống nhau ở cả bốn đề.",
 )
 clean_axes(ax)
 save(fig, "fig01_sections.png")
 
 # ---------------------------------------------------------------- fig 02 skills
 skill_labels = {
-    "Word formation": "Word formation",
-    "Cloze": "Cloze test",
+    "Word formation": "Cấu tạo từ",
+    "Cloze": "Điền khuyết",
     "Reading": "Đọc hiểu",
-    "Grammar": "Ngữ pháp (Section I)",
+    "Grammar": "Ngữ pháp (phần I)",
     "Sentence transformation": "Viết lại câu",
-    "Vocabulary": "Từ vựng (Section I)",
+    "Vocabulary": "Từ vựng (phần I)",
     "Pronunciation": "Phát âm",
     "Stress": "Trọng âm",
     "Communication": "Giao tiếp",
@@ -157,11 +157,11 @@ for bar, (name, v) in zip(bars, skills):
     )
 ax.set_yticks(y, [skill_labels[n] for n, _ in skills], fontsize=10.5)
 ax.set_xlim(0, 30)
-ax.set_xlabel("Số câu trên tổng 160 câu (4 đề)")
+ax.set_xlabel("Số câu trên tổng 160 câu (bốn đề)")
 title_block(
     ax,
     "Nhóm kỹ năng nào chiếm nhiều điểm nhất?",
-    "Word formation, cloze và đọc hiểu mỗi nhóm chiếm 15% tổng số câu.",
+    "Cấu tạo từ, điền khuyết và đọc hiểu mỗi nhóm chiếm 15% tổng số câu.",
 )
 clean_axes(ax)
 save(fig, "fig02_skills.png")
@@ -170,13 +170,13 @@ save(fig, "fig02_skills.png")
 exams = ["2023", "2024", "2025", "2026"]
 topic_labels = {
     "preposition": "Giới từ",
-    "connector": "Liên từ / connector",
-    "tense/verb form": "Thì & dạng động từ",
+    "connector": "Liên từ / từ nối",
+    "tense/verb form": "Thì và dạng động từ",
     "relative clause": "Mệnh đề quan hệ",
     "comparison": "So sánh",
     "verb pattern": "Cấu trúc động từ",
     "wish": "Câu ước (wish)",
-    "causative": "Causative (have sb do)",
+    "causative": "Cấu trúc nhờ vả",
     "tag question": "Câu hỏi đuôi",
     "determiner": "Từ hạn định",
     "quantifier": "Lượng từ",
@@ -209,8 +209,8 @@ for i in range(len(topics)):
         )
 title_block(
     ax,
-    "Chủ điểm ngữ pháp lặp lại qua 4 đề",
-    "Đếm trong Section I (câu 5–12) và các chỗ trống ngữ pháp của cloze.",
+    "Chủ điểm ngữ pháp lặp lại qua bốn đề",
+    "Đếm trong phần I (câu 5–12) và các chỗ trống ngữ pháp của bài điền khuyết.",
 )
 ax.tick_params(length=0)
 for side in ax.spines.values():
@@ -232,7 +232,7 @@ for k, (letter, col) in enumerate(zip(letters, letter_colors)):
 ax.axhline(6, color=MUTED, linestyle=(0, (4, 4)), linewidth=1)
 ax.set_xticks(x, ["2023", "2024", "2025", "2026"], fontsize=11)
 ax.set_ylim(0, 9.2)
-ax.set_ylabel("Số đáp án đúng / 24 câu MCQ")
+ax.set_ylabel("Số đáp án đúng / 24 câu trắc nghiệm")
 title_block(
     ax,
     "Phân bố đáp án trắc nghiệm theo từng đề",
@@ -250,7 +250,7 @@ fig, ax = plt.subplots(figsize=(9.4, 5.2))
 x = np.arange(len(exams))
 cloze = [by_exam[e]["cloze"] for e in exams]
 reading = [by_exam[e]["reading"] for e in exams]
-ax.bar(x, cloze, 0.55, label="Cloze", color=SECONDARY, edgecolor="none")
+ax.bar(x, cloze, 0.55, label="Điền khuyết", color=SECONDARY, edgecolor="none")
 ax.bar(x, reading, 0.55, bottom=cloze, label="Đọc hiểu", color=BLUE, edgecolor="none")
 for i, e in enumerate(exams):
     total = cloze[i] + reading[i]

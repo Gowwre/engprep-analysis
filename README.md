@@ -18,8 +18,8 @@ Thư mục này chứa dữ liệu và báo cáo phân tích 4 đề:
 
 ## Dữ liệu
 
-- `exam_items.csv` — 160 item đã mã hoá (40 câu × 4 đề).
-- `passages.csv` — thống kê 8 đoạn cloze/reading.
+- `exam_items.csv` — 160 câu đã phân loại (40 câu × 4 đề).
+- `passages.csv` — thống kê 8 đoạn điền khuyết/đọc hiểu.
 - `summary.json` — số liệu tổng hợp theo đề.
 - `section_summary.csv`, `skill_summary.csv`, `grammar_summary.csv`, `answer_summary.csv` — các bảng tổng hợp nhanh.
 
@@ -53,7 +53,7 @@ pandoc BAO-CAO-PHAN-TICH.md \
   --toc --toc-depth=2 \
   --lua-filter=strip-title.lua \
   --metadata title="Đề thi tuyển sinh lớp 10 môn Tiếng Anh TP.HCM" \
-  --metadata subtitle="Phân tích dữ liệu 4 đề: 2023 – 2026" \
+  --metadata subtitle="Phân tích 4 đề thi: 2023 – 2026" \
   --metadata pagetitle="Phân tích 4 đề thi tuyển sinh 10 môn Tiếng Anh TP.HCM" \
   --metadata lang=vi \
   -o bao-cao-phan-tich.html
@@ -64,4 +64,4 @@ pandoc BAO-CAO-PHAN-TICH.md \
 - Chỉ đề 2024–2025 có đáp án chính thức. Các đáp án còn lại là gợi ý, được đánh dấu `inferred` trong CSV.
 - Đề 2026 là **đề chính thức**; đề tham khảo 2026 gần như trùng với đề chính thức nên không được tính riêng trong thống kê.
 - Việc phân loại kỹ năng/mức nhận thức là một cách mã hoá chủ quan; nên dùng để so sánh tương đối.
-- Các PDF gốc không được đưa vào repo; dữ liệu đã mã hoá nằm trong `exam_items.csv` và `passages.csv`.
+- Các PDF gốc không được đưa vào repo; dữ liệu đã phân loại nằm trong `exam_items.csv` và `passages.csv`.
