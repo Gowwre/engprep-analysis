@@ -5,7 +5,7 @@ Thư mục này chứa dữ liệu và báo cáo phân tích 4 đề:
 - 2023–2024 chính thức
 - 2024–2025 chính thức (có đáp án ở cuối PDF)
 - 2025–2026 chính thức
-- 2026 đề tham khảo
+- 2026 chính thức
 
 **GitHub Pages:** https://gowwre.github.io/engprep-analysis/
 
@@ -27,7 +27,7 @@ Các cột chính trong `exam_items.csv`:
 
 | Cột | Ý nghĩa |
 |---|---|
-| `exam_id` | 2023, 2024, 2025, 2026R |
+| `exam_id` | 2023, 2024, 2025, 2026 |
 | `item` | Số câu 1–40 |
 | `section` | Phần I–VII |
 | `format` | MCQ, True/False, Gap-fill, Rewrite, Rearrange… |
@@ -62,5 +62,6 @@ pandoc BAO-CAO-PHAN-TICH.md \
 ## Lưu ý
 
 - Chỉ đề 2024–2025 có đáp án chính thức. Các đáp án còn lại là gợi ý, được đánh dấu `inferred` trong CSV.
-- Đề 2026 là **đề tham khảo**, không phải đề chính thức.
+- Đề 2026 là **đề chính thức**; đề tham khảo 2026 gần như trùng với đề chính thức nên không được tính riêng trong thống kê.
 - Việc phân loại kỹ năng/mức nhận thức là một cách mã hoá chủ quan; nên dùng để so sánh tương đối.
+- Các PDF gốc không được đưa vào repo; dữ liệu đã mã hoá nằm trong `exam_items.csv` và `passages.csv`.

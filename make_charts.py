@@ -167,7 +167,7 @@ clean_axes(ax)
 save(fig, "fig02_skills.png")
 
 # ---------------------------------------------------------------- fig 03 grammar heatmap
-exams = ["2023", "2024", "2025", "2026R"]
+exams = ["2023", "2024", "2025", "2026"]
 topic_labels = {
     "preposition": "Giới từ",
     "connector": "Liên từ / connector",
@@ -192,7 +192,7 @@ mat = np.array(
 cmap = LinearSegmentedColormap.from_list("engprep", ["#F7F2E7", "#EBC7AD", "#C96A45", "#8E2F1B"])
 fig, ax = plt.subplots(figsize=(8.6, 7.0))
 im = ax.imshow(mat, cmap=cmap, aspect="auto", vmin=0, vmax=3)
-ax.set_xticks(range(len(exams)), ["2023", "2024", "2025", "2026R"], fontsize=11)
+ax.set_xticks(range(len(exams)), ["2023", "2024", "2025", "2026"], fontsize=11)
 ax.set_yticks(range(len(topics)), [topic_labels[t] for t in topics], fontsize=10.5)
 for i in range(len(topics)):
     for j in range(len(exams)):
@@ -230,7 +230,7 @@ for k, (letter, col) in enumerate(zip(letters, letter_colors)):
     for bar, v in zip(bars, vals):
         ax.text(bar.get_x() + bar.get_width() / 2, v + 0.12, str(v), ha="center", fontsize=9, color=MUTED)
 ax.axhline(6, color=MUTED, linestyle=(0, (4, 4)), linewidth=1)
-ax.set_xticks(x, ["2023", "2024", "2025", "2026R"], fontsize=11)
+ax.set_xticks(x, ["2023", "2024", "2025", "2026"], fontsize=11)
 ax.set_ylim(0, 9.2)
 ax.set_ylabel("Số đáp án đúng / 24 câu MCQ")
 title_block(
@@ -257,7 +257,7 @@ for i, e in enumerate(exams):
     ax.text(i, total + 9, f"{total} từ", ha="center", fontsize=11, fontweight="bold", color=INK)
     ax.text(i, cloze[i] / 2, str(cloze[i]), ha="center", va="center", fontsize=9.5, color="white")
     ax.text(i, cloze[i] + reading[i] / 2, str(reading[i]), ha="center", va="center", fontsize=9.5, color="white")
-ax.set_xticks(x, ["2023", "2024", "2025", "2026R"], fontsize=11)
+ax.set_xticks(x, ["2023", "2024", "2025", "2026"], fontsize=11)
 ax.set_ylim(0, 540)
 ax.set_ylabel("Số từ phải đọc")
 title_block(

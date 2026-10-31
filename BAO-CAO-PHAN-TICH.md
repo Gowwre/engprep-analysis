@@ -1,11 +1,11 @@
 # Đề thi tuyển sinh lớp 10 môn Tiếng Anh TP.HCM
 ## Phân tích dữ liệu 4 đề: 2023 – 2026
 
-**Phạm vi:** 3 đề chính thức (2023–2024, 2024–2025, 2025–2026) và 1 đề tham khảo 2026.
+**Phạm vi:** 4 đề chính thức (2023, 2024, 2025, 2026). Đề tham khảo 2026 được dùng để đối chiếu, không tính vào thống kê chính.
 **Dữ liệu:** 160 câu hỏi, 40 câu/đề, 10 điểm/đề, thời gian 90 phút.
 **Đơn vị phân tích:** từng câu (item-level), không chỉ thống kê theo phần.
 
-> **Lưu ý về đáp án:** PDF đề 2024–2025 có đáp án chính thức ở cuối. Các đề 2023–2024, 2025–2026 và đề tham khảo 2026 không kèm đáp án; các đáp án trong báo cáo này do người phân tích tự giải và được ghi rõ là **gợi ý**. Khi dùng để dạy hoặc ôn tập, nên đối chiếu lại với đáp án của Sở nếu có.
+> **Lưu ý về đáp án:** PDF đề 2024–2025 có đáp án chính thức ở cuối. Các đề 2023, 2025 và 2026 không kèm đáp án; các đáp án trong báo cáo này do người phân tích tự giải và được ghi rõ là **gợi ý**. Khi dùng để dạy hoặc ôn tập, nên đối chiếu lại với đáp án của Sở nếu có. Đề tham khảo 2026 gần như trùng với đề chính thức 2026, nên được dùng để kiểm chứng chứ không tính riêng trong thống kê.
 
 ---
 
@@ -17,10 +17,11 @@
 4. **Đề nghiêng về vận dụng, không đánh đố:** 44% câu yêu cầu áp dụng quy tắc, 25% suy luận/đọc hiểu, 16% nhận biết, 15% sản sinh (viết).
 5. **Sáu chủ điểm ngữ pháp lõi chiếm 87% item ngữ pháp:** giới từ (9 item), liên từ (6), thì/dạng động từ (6), mệnh đề quan hệ (4), so sánh (4), cấu trúc động từ (4).
 6. **Word formation có công thức rõ ràng:** mỗi đề 6 câu, luôn là **2 danh từ + 2 tính từ + 1 trạng từ + 1 động từ**. Đây là phần dễ luyện nhất để lấy 1,5 điểm.
-7. **Đọc hiểu có cấu trúc cố định:** 4 câu True/False + 1 câu ý chính/tiêu đề + 1 câu chi tiết/Tham chiếu/NOT mentioned/cảm xúc. Ba đề chính thức (theo đáp án hiện có) đều có đúng **2 True + 2 False**.
-8. **Section VI là phần duy nhất thay đổi format:** đề 2023 và 2024 sắp xếp câu → đề 2025 điền từ theo mục từ điển → đề tham khảo 2026 điền cụm từ cho sẵn. Cả hai dạng mới đều kiểm tra **cụm từ cố định (lexical chunks)**, không phải sắp xếp câu.
-9. **Đề tham khảo 2026 có hai tín hiệu đáng chú ý:** Section I tăng từ vựng lên 4 câu (giảm ngữ pháp còn 4 câu) và chủ đề cloze là **deepfake/AI**.
-10. **Nhóm “điểm nhanh” chiếm 3,5 điểm:** phát âm + trọng âm (1,0 điểm), biển báo (0,5), giao tiếp (0,5), word formation (1,5). Đây là vùng nên cày trước.
+7. **Đọc hiểu có cấu trúc cố định:** 4 câu True/False + 1 câu ý chính/tiêu đề + 1 câu chi tiết/Tham chiếu/NOT mentioned/cảm xúc. Các đề 2023–2025 đều có đúng **2 True + 2 False**; đề 2026 chính thức có **3 True + 1 False**, nên không nên máy móc áp dụng quy luật 2T/2F.
+8. **Section VI là phần duy nhất thay đổi format:** đề 2023 và 2024 sắp xếp câu → đề 2025 điền từ theo mục từ điển `provide` → đề 2026 điền từ theo mục từ điển `habit`. Đề tham khảo 2026 dùng bảng cụm từ, nhưng đề chính thức chuyển sang từ điển; cả hai đều kiểm tra **cụm từ cố định (lexical chunks)**.
+9. **Đề chính thức 2026 xác nhận hai tín hiệu đáng chú ý:** Section I tăng từ vựng lên 4 câu (giảm ngữ pháp còn 4 câu) và chủ đề cloze là **deepfake/AI**.
+10. **Đề chính thức 2026 gần như trùng khớp với đề tham khảo 2026:** cùng 40 câu, cùng đáp án, cùng passage; khác biệt đáng kể duy nhất là format Section VI. Đây là xác nhận mạnh cho các quy luật trong báo cáo.
+11. **Nhóm “điểm nhanh” chiếm 3,5 điểm:** phát âm + trọng âm (1,0 điểm), biển báo (0,5), giao tiếp (0,5), word formation (1,5). Đây là vùng nên cày trước.
 
 ---
 
@@ -31,7 +32,9 @@
 | `TS-10-TA-TPHCM-2023-2024-1.pdf` | 2023–2024 | Chính thức | 4 | Tự giải – gợi ý |
 | `de-tieng-anh-2776.pdf` | 2024–2025 | Chính thức | 4 | **Chính thức** (cuối PDF) |
 | `de-thi-ts10-nam-hoc-2025-2026-mon-tieng-anh-72283.pdf` | 2025–2026 | Chính thức | 4 | Tự giải – gợi ý |
-| `english-thanh-nien-3232.pdf` | 2026 | Đề tham khảo | 3 | Tự giải – gợi ý |
+| `ThiEngLop10-2026.pdf` | 2026 | Chính thức | 4 | Tự giải – gợi ý |
+
+> Đề tham khảo 2026 (`english-thanh-nien-3232.pdf`) gần như trùng với đề chính thức: cùng 40 câu, cùng đáp án, cùng passage; chỉ khác format Section VI. Vì vậy đề tham khảo không được tính riêng trong thống kê.
 
 **Cách làm:**
 
@@ -61,7 +64,7 @@
 | VII | Viết lại câu | 4 | 1,0 | 10% |
 | **Tổng** |  | **40** | **10** | **100%** |
 
-Tỉ lệ này **giống hệt nhau ở cả 4 đề**, kể cả đề tham khảo 2026. Nói cách khác, học sinh có thể biết trước “điểm rơi” của từng phần.
+Tỉ lệ này **giống hệt nhau ở cả 4 đề chính thức**. Nói cách khác, học sinh có thể biết trước “điểm rơi” của từng phần.
 
 ### 3.2. Bản đồ câu hỏi chi tiết (ổn định 4/4 đề)
 
@@ -100,9 +103,9 @@ Tỉ lệ ngữ pháp : từ vựng trong câu 5–12 có dao động nhẹ:
 | 2023 | 6 | 2 |
 | 2024 | 7 | 1 |
 | 2025 | 6 | 2 |
-| 2026R | 4 | 4 |
+| 2026 | 4 | 4 |
 
-Đề tham khảo 2026 tăng từ vựng lên 4 câu. Nếu đây là tín hiệu cho đề chính thức, học sinh cần chú ý hơn đến **collocation và nghĩa từ trong ngữ cảnh**, không chỉ học mẫu ngữ pháp.
+Đề chính thức 2026 tăng từ vựng lên 4 câu. Đây là thay đổi cần chú ý cho các năm sau: học sinh cần quan tâm hơn đến **collocation và nghĩa từ trong ngữ cảnh**, không chỉ học mẫu ngữ pháp.
 
 ---
 
@@ -144,7 +147,7 @@ Tỉ lệ ngữ pháp : từ vựng trong câu 5–12 có dao động nhẹ:
 
 Thống kê dưới đây chỉ tính **các item ngữ pháp tường minh**: câu 5–12 của Section I và các chỗ trống ngữ pháp trong cloze (không tính phát âm, trọng âm, từ vựng thuần, đọc hiểu).
 
-| Chủ điểm | 2023 | 2024 | 2025 | 2026R | Tổng |
+| Chủ điểm | 2023 | 2024 | 2025 | 2026 | Tổng |
 |---|---:|---:|---:|---:|---:|
 | Giới từ | 2 | 2 | 3 | 2 | **9** |
 | Liên từ / connector | 2 | 1 | 1 | 2 | **6** |
@@ -191,7 +194,7 @@ Mỗi đề có đúng 6 câu word formation, và cả 4 đề đều tuân theo
 | 2023 | 2 | 2 | 1 | 1 |
 | 2024 | 2 | 2 | 1 | 1 |
 | 2025 | 2 | 2 | 1 | 1 |
-| 2026R | 2 | 2 | 1 | 1 |
+| 2026 | 2 | 2 | 1 | 1 |
 
 > Cách đếm: các dạng `V-ing` như `surfing`, `preparing`, `entertaining` được xếp vào nhóm động từ; `damaging` trong “damaging storms” được xếp vào tính từ.
 
@@ -234,7 +237,7 @@ Cách học hiệu quả: học từ theo **cụm** (look up a word, traffic jam
 | 2023 | 4 | 2 |
 | 2024 | 3 | 3 |
 | 2025 | 4 | 2 |
-| 2026R | 4 | 2 |
+| 2026 | 4 | 2 |
 | **Tổng** | **15 (62,5%)** | **9 (37,5%)** |
 
 Cloze là phần **ngữ pháp + từ vựng**, không phải chỉ điền từ. Các chỗ trống ngữ pháp thường là: giới từ, liên từ, mệnh đề quan hệ, dạng động từ, so sánh, lượng từ. Các chỗ trống từ vựng thường là danh từ/tính từ trong ngữ cảnh và collocation.
@@ -250,7 +253,7 @@ Cloze là phần **ngữ pháp + từ vựng**, không phải chỉ điền từ
 | 2023 | 228 từ | 239 từ | **467** | Life on the moon (science) | Mother’s Day (family/culture) |
 | 2024 | 121 từ | 200 từ | **321** | Da Nang tourism (travel) | Energy conservation (environment) |
 | 2025 | 196 từ | 198 từ | **394** | Cooking club for the elderly (community) | Teenagers and sports (health) |
-| 2026R | 139 từ | 200 từ | **339** | Deepfake / AI (technology) | Mountain hiking (travel/outdoors) |
+| 2026 | 139 từ | 200 từ | **339** | Deepfake / AI (technology) | Mountain hiking (travel/outdoors) |
 
 Trung bình mỗi đề phải đọc khoảng **380 từ** cho cloze + reading. Đề 2023 nặng nhất (467 từ); đề 2024 nhẹ nhất về số từ (321) nhưng **đoạn đọc hiểu** có câu dài nhất (trung bình 25 từ/câu), nên tốc độ đọc vẫn là yếu tố quan trọng.
 
@@ -261,14 +264,14 @@ Trung bình mỗi đề phải đọc khoảng **380 từ** cho cloze + reading.
 | 2023 | 4 câu (2T/2F) | Q27: main idea | Q28: chi tiết/suy luận |
 | 2024 | 4 câu (2T/2F) | Q28: main idea | Q27: từ tham chiếu `them` |
 | 2025 | 4 câu (2T/2F) | Q27: main idea | Q28: NOT mentioned |
-| 2026R | 4 câu (3T/1F) | Q27: best title | Q28: cảm xúc của người viết |
+| 2026 | 4 câu (3T/1F) | Q27: best title | Q28: cảm xúc của người viết |
 
 Mỗi đề luôn có:
 - **4 câu True/False** (1,0 điểm): kiểm tra khả năng định vị thông tin và phân biệt đúng/sai.
 - **1 câu hỏi toàn cục** (0,25 điểm): ý chính hoặc tiêu đề.
 - **1 câu hỏi cục bộ** (0,25 điểm): chi tiết, từ tham chiếu, NOT mentioned hoặc cảm xúc.
 
-Ba đề chính thức đều có **2 True + 2 False**. Đây là quy luật thiết kế đề khá rõ, nhưng **không nên dùng làm mẹo thay thế evidence**: chỉ nên dùng để kiểm tra lại sau khi đã làm.
+Các đề 2023–2025 đều có **2 True + 2 False**; đề 2026 chính thức có **3 True + 1 False**. Đây là lần đầu tiên trong mẫu có 3T/1F, cho thấy quy luật 2T/2F **không còn tuyệt đối**. Chỉ nên dùng để kiểm tra lại sau khi đã làm, không dùng thay evidence.
 
 ### 7.2. Chủ đề đọc đang dịch chuyển
 
@@ -276,7 +279,7 @@ Trình tự chủ đề qua 4 đề:
 
 **gia đình/văn hóa → môi trường/du lịch → cộng đồng/sức khỏe → công nghệ/AI + du lịch**
 
-Đề tham khảo 2026 đưa **deepfake/AI** vào cloze. Đây là tín hiệu nên bổ sung từ vựng công nghệ: `artificial intelligence`, `deepfake`, `misinformation`, `digital`, `online`, `spread`, `influence`, `public opinion`. Đồng thời, các chủ đề quen thuộc vẫn quay lại: môi trường, du lịch, cộng đồng, sức khỏe, gia đình.
+Đề chính thức 2026 đưa **deepfake/AI** vào cloze. Đây là tín hiệu nên bổ sung từ vựng công nghệ: `artificial intelligence`, `deepfake`, `misinformation`, `digital`, `online`, `spread`, `influence`, `public opinion`. Đồng thời, các chủ đề quen thuộc vẫn quay lại: môi trường, du lịch, cộng đồng, sức khỏe, gia đình.
 
 ### 7.3. Chiến lược làm bài đọc
 
@@ -294,7 +297,7 @@ Bốn nhóm này chiếm **2,0 điểm** (phát âm 0,5 + trọng âm 0,5 + bi�
 
 ### 8.1. Phát âm (câu 1–2)
 
-- Câu 1 chủ yếu kiểm tra **đuôi -ed** (3/4 đề: 2023, 2025, 2026R); riêng 2024 kiểm tra **đuôi -s**.
+- Câu 1 chủ yếu kiểm tra **đuôi -ed** (3/4 đề: 2023, 2025, 2026); riêng 2024 kiểm tra **đuôi -s**.
 - Câu 2 kiểm tra **cách phát âm nguyên âm** trong nhóm từ (`i`, `a`, `e`).
 
 | Dạng | Quy tắc gợi ý |
@@ -330,7 +333,7 @@ Cách làm: đọc đúng **hành động bị cấm/được phép** và **đi�
 | 2023 | động viên (`Good luck in the exam!`) | phản hồi lời xin lỗi |
 | 2024 | chấp nhận gợi ý (`That sounds great!`) | cho phép (`Of course. You can.`) |
 | 2025 | chấp nhận gợi ý (`Let’s do it!`) | hỏi giờ (`What time does the movie start?`) |
-| 2026R | hỏi thăm sức khỏe (`What’s the matter with you?`) | từ chối lời mời (`No, thanks`) |
+| 2026 | hỏi thăm sức khỏe (`What’s the matter with you?`) | từ chối lời mời (`No, thanks`) |
 
 Mỗi đề có 1 câu “chức năng” và 1 câu “phản hồi”. Nên học 8 nhóm chức năng: gợi ý, mời, đề nghị, xin lỗi, cảm ơn, xin phép, động viên, hỏi thăm sức khỏe.
 
@@ -340,7 +343,7 @@ Mỗi đề có 1 câu “chức năng” và 1 câu “phản hồi”. Nên h�
 
 ### 9.1. Viết lại câu: 4 câu, 1,0 điểm, 4 nhóm pattern
 
-| Nhóm pattern | 2023 | 2024 | 2025 | 2026R | Tổng |
+| Nhóm pattern | 2023 | 2024 | 2025 | 2026 | Tổng |
 |---|---|---|---:|---:|---:|
 | Điều kiện / wish | Q37 | Q38 | Q38 | Q37 | **4** |
 | Cụm từ + V-ing | Q40 (`fond of`) | Q37 (`keen on`) | — | Q38 (`mind`) | **3** |
@@ -371,9 +374,9 @@ Các mẫu cụ thể cần nằm lòng:
 | 2023 | Sắp xếp từ thành câu | Nuclear power; The host band |
 | 2024 | Sắp xếp từ thành câu | Uncle Hồ; Studying abroad |
 | 2025 | Điền từ theo mục từ điển | `provide` → `provide information`, `provides an opportunity` |
-| 2026R | Điền cụm từ cho sẵn | `break the habit`, `eating habits` |
+| 2026 | Điền từ theo mục từ điển | `habit` → `break the habit`, `eating habits` |
 
-Hai đề gần đây nhất (2025 và 2026R) **không còn sắp xếp câu**, mà kiểm tra **cụm từ cố định trong ngữ cảnh**. Đây là thay đổi quan trọng:
+Hai đề gần đây nhất (2025 và 2026) **không còn sắp xếp câu**, mà dùng **mục từ điển** để kiểm tra **cụm từ cố định trong ngữ cảnh**. Đề tham khảo 2026 dùng bảng cụm từ, nhưng đề chính thức chuyển sang mục từ điển; cả hai đều kiểm tra cùng một kỹ năng. Đây là thay đổi quan trọng:
 
 - Nếu chỉ ôn dạng sắp xếp câu, học sinh có thể mất 0,5 điểm.
 - Cần học **collocation** và **cách dùng từ điển**: đọc entry, xem ví dụ, chọn cụm 2–3 từ phù hợp.
@@ -390,40 +393,41 @@ Hai đề gần đây nhất (2025 và 2026R) **không còn sắp xếp câu**, 
 | 2023 | 6 | 6 | 6 | 6 | 24 | 2T/2F |
 | 2024 | 6 | 6 | 8 | 4 | 24 | 2T/2F |
 | 2025 | 7 | 6 | 8 | 3 | 24 | 2T/2F |
-| 2026R | 7 | 3 | 8 | 6 | 24 | 3T/1F |
+| 2026 | 7 | 3 | 8 | 6 | 24 | 3T/1F |
 | **Tổng** | **26** | **21** | **30** | **19** | **96** | **9T/7F** |
 
 Nhận xét:
 
 - Theo đáp án gợi ý, đề 2023 cân bằng hoàn hảo **6/6/6/6**.
 - Đề 2024 (chính thức) và 2025 (gợi ý) lệch về C (8 câu), D ít (4 và 3 câu).
-- Đề tham khảo 2026 lệch mạnh: C 8, B chỉ 3.
+- Đề 2026 chính thức lệch mạnh: C 8, B chỉ 3.
 - Trên toàn bộ 96 câu MCQ, C chiếm 31,3%, D chiếm 19,8%.
 
 **Cảnh báo:** đây là mẫu nhỏ (24 câu/đề). Không nên dùng "đếm chữ cái" để đoán đáp án. Quy luật cân bằng chỉ có giá trị **kiểm tra lại** sau khi đã làm bằng kiến thức.
 
-Điểm đáng tin hơn là True/False: **ba đề chính thức (theo đáp án hiện có) đều có 2 True + 2 False**. Nếu làm xong mà thấy 4True/0False hoặc 0True/4False, nên xem lại.
+Điểm đáng tin hơn là True/False: **2023–2025 đều có 2 True + 2 False; 2026 có 3 True + 1 False**. Quy luật 2T/2F không còn tuyệt đối, nên chỉ dùng để kiểm tra nếu kết quả lệch bất thường (4T/0F hoặc 0T/4F).
 
 ---
 
 ## 11. Xu hướng 2023 → 2026
 
-| Yếu tố | 2023 | 2024 | 2025 | 2026R | Xu hướng |
+| Yếu tố | 2023 | 2024 | 2025 | 2026 | Xu hướng |
 |---|---|---|---|---|---|
 | Cấu trúc tổng | 40 câu/10đ/90 phút | 40/10/90 | 40/10/90 | 40/10/90 | **Ổn định** |
-| Section VI | Sắp xếp câu | Sắp xếp câu | Từ điển | Cụm từ | **Đổi từ 2025** |
-| Từ vựng Section I | 2 câu | 1 câu | 2 câu | 4 câu | Tăng ở 2026R |
+| Section VI | Sắp xếp câu | Sắp xếp câu | Từ điển | Từ điển | **Đổi từ 2025** |
+| Từ vựng Section I | 2 câu | 1 câu | 2 câu | 4 câu | Tăng ở 2026 |
 | Chủ đề đọc | Gia đình/văn hóa | Môi trường/du lịch | Cộng đồng/sức khỏe | AI/du lịch | Cập nhật công nghệ |
 | Tổng từ phải đọc | 467 | 321 | 394 | 339 | Dao động 321–467 |
 | Word formation | 2N/2Adj/1Adv/1V | 2N/2Adj/1Adv/1V | 2N/2Adj/1Adv/1V | 2N/2Adj/1Adv/1V | **Ổn định** |
-| True/False | 2T/2F | 2T/2F | 2T/2F | 3T/1F | Chính thức cân bằng |
+| True/False | 2T/2F | 2T/2F | 2T/2F | 3T/1F | 2026 không còn cân bằng tuyệt đối |
 | Đáp án MCQ | 6/6/6/6 | 6/6/8/4 | 7/6/8/3 | 7/3/8/6 | C hơi trội |
 
 **Đọc xu hướng:**
 
 - Đề vẫn giữ **khung ổn định**, không tăng số câu hay đổi thang điểm.
-- Thay đổi đáng kể nhất là **Section VI**: từ sắp xếp câu sang điền cụm từ/từ điển.
-- Đề tham khảo 2026 cho thấy **từ vựng được đẩy lên** ở Section I và **chủ đề công nghệ** xuất hiện. Đây có thể là tín hiệu cho đề chính thức, nhưng cần thận trọng vì đây chỉ là đề tham khảo.
+- Thay đổi đáng kể nhất là **Section VI**: từ sắp xếp câu sang **mục từ điển** (2025 và 2026).
+- Đề chính thức 2026 xác nhận **từ vựng được đẩy lên** ở Section I (4 câu) và **chủ đề công nghệ** xuất hiện. Đây là thay đổi cần chú ý cho các năm sau.
+- Đề tham khảo 2026 đã dự báo đúng phần lớn nội dung; khác biệt chính là Section VI dùng bảng cụm từ thay vì mục từ điển.
 - Các chủ đề quen thuộc vẫn quay vòng: môi trường, du lịch, cộng đồng, sức khỏe, gia đình.
 
 ---
@@ -473,18 +477,29 @@ Mỗi ngày 45–60 phút. Sau mỗi đề, ghi lỗi vào 3 cột: **lỗi ki�
 
 ---
 
-## 13. Dự đoán cho đề tiếp theo
+## 13. Đối chiếu với đề 2026 chính thức và hàm ý cho 2027
 
-Dựa trên dữ liệu 4 đề, có thể dự đoán **có cơ sở** (không phải đề thật):
+Đề 2026 chính thức gần như trùng khớp với đề tham khảo đã phân tích trước đó. Bảng dưới đối chiếu các dự đoán với đề chính thức:
 
-1. **Cấu trúc:** 40 câu, 10 điểm, 90 phút, 7 phần; mỗi câu 0,25 điểm.
-2. **Bản đồ câu hỏi:** giữ nguyên thứ tự; câu 1–4 phát âm/trọng âm; 5–12 ngữ pháp/từ vựng; 13–14 giao tiếp; 15–16 biển báo; 17–22 cloze; 23–26 T/F; 27–28 đọc hiểu; 29–34 word formation; 35–36 Section VI; 37–40 viết lại.
-3. **Word formation:** 6 câu, nhiều khả năng vẫn 2 danh từ + 2 tính từ + 1 trạng từ + 1 động từ.
-4. **Đọc hiểu:** 4 T/F + 1 câu ý chính/tiêu đề + 1 câu chi tiết/Tham chiếu/NOT mentioned/cảm xúc; chủ đề có thể là công nghệ, môi trường, cộng đồng, sức khỏe, du lịch.
-5. **Ngữ pháp:** giới từ, liên từ, thì/dạng động từ, mệnh đề quan hệ, so sánh là 5 chủ điểm chắc chắn nên ôn.
-6. **Section VI:** nhiều khả năng tiếp tục dạng điền cụm từ/từ điển, không quay lại sắp xếp câu.
-7. **True/False:** có thể vẫn 2T/2F; nếu lệch, nên kiểm tra lại bài.
-8. **Viết lại câu:** 1 câu điều kiện/wish; 1 câu cụm động từ + V-ing; 1 câu hiện tại hoàn thành/kết quả; 1 câu phrasal verb/tương phản.
+| Dự đoán trước đó | Đề 2026 chính thức | Kết quả |
+|---|---|---|
+| 40 câu, 10 điểm, 90 phút, 7 phần | Giữ nguyên | **Đúng** |
+| Câu 1–4 phát âm/trọng âm; 5–12 ngữ pháp/từ vựng; 13–14 giao tiếp; 15–16 biển báo; 17–22 cloze; 23–26 T/F; 27–28 đọc hiểu; 29–34 word formation; 35–36 Section VI; 37–40 viết lại | Giữ nguyên thứ tự | **Đúng** |
+| Word formation: 2 danh từ + 2 tính từ + 1 trạng từ + 1 động từ | Đúng 6 câu, đúng template | **Đúng** |
+| Đọc hiểu: 4 T/F + 1 câu ý chính/tiêu đề + 1 câu chi tiết | Đúng; T/F là 3T/1F | **Đúng cấu trúc**; 2T/2F không còn đúng |
+| Ngữ pháp: giới từ, liên từ, thì, mệnh đề quan hệ, so sánh | Đúng 5 chủ điểm lõi | **Đúng** |
+| Section VI: tiếp tục điền cụm từ/từ điển | Dùng mục từ điển `habit` | **Đúng hướng** |
+| Viết lại: điều kiện/wish, cụm động từ + V-ing, hiện tại hoàn thành/kết quả, phrasal verb/tương phản | Đúng 4 nhóm | **Đúng** |
+| Section I tăng từ vựng, cloze chủ đề AI | 4 câu từ vựng; cloze deepfake/AI | **Đúng** |
+
+**Hàm ý cho 2027:**
+
+1. **Khung đề nhiều khả năng vẫn ổn định:** 40 câu, 10 điểm, 90 phút, 7 phần; mỗi câu 0,25 điểm.
+2. **Section VI nên tiếp tục luyện theo mục từ điển:** đọc entry, chọn cụm không quá 3 từ, chú ý giới từ và số nhiều. Đừng chỉ ôn sắp xếp câu.
+3. **True/False không nên máy móc 2T/2F:** đề 2026 đã lệch 3T/1F. Luôn tìm evidence cho từng câu.
+4. **Word formation vẫn là vùng điểm cao:** học quy tắc đuôi từ và template 2N/2Adj/1V/1Adv, nhưng không học tủ đáp án.
+5. **Từ vựng Section I có thể vẫn ở mức 4 câu:** học collocation đời sống và từ vựng công nghệ/AI, môi trường, sức khỏe, du lịch.
+6. **Viết lại câu:** tập trung 5 nhóm pattern lặp lại; mỗi nhóm luyện 5–10 câu.
 
 **Điều không nên làm:** học tủ theo chủ đề đoán trước. Dữ liệu cho thấy đề **xoay chủ đề**, nhưng **giữ nguyên kỹ năng**. Học kỹ năng quan trọng hơn đoán nội dung.
 
@@ -492,12 +507,12 @@ Dựa trên dữ liệu 4 đề, có thể dự đoán **có cơ sở** (không 
 
 ## 14. Hạn chế của phân tích
 
-- Mẫu chỉ gồm **4 đề**, trong đó 3 đề chính thức và 1 đề tham khảo; không phải mẫu ngẫu nhiên đại diện cho mọi năm.
-- Đáp án 2023, 2025 và 2026R là **tự giải**, có thể sai ở một vài câu; đáp án 2024 là chính thức.
+- Mẫu gồm **4 đề chính thức** (2023–2026); không phải mẫu ngẫu nhiên đại diện cho mọi năm. Đề tham khảo 2026 gần như trùng với đề chính thức nên không được tính riêng để tránh trùng lặp.
+- Đáp án 2023, 2025 và 2026 là **tự giải**, có thể sai ở một vài câu; đáp án 2024 là chính thức.
 - Một số câu phụ thuộc hình ảnh (biển báo) hoặc phần text bị lỗi khi trích PDF; đáp án được suy ra từ phương án và hình render, có ghi chú độ tin cậy.
 - Việc phân loại kỹ năng/mức nhận thức mang tính chủ quan; một câu có thể thuộc nhiều nhóm.
 - Các chỉ số đọc hiểu như Flesch-Kincaid có trong `passages.csv` nhưng **không dùng để xếp hạng độ khó**, vì công thức này không được thiết kế cho người học EFL và rất nhạy với độ dài đoạn.
-- Đề 2026 chính thức (nếu có) không nằm trong tập dữ liệu; đề 2026 trong báo cáo là **đề tham khảo**.
+- Đề 2026 chính thức đã được đưa vào dữ liệu; tuy nhiên PDF không kèm đáp án chính thức, nên đáp án 2026 vẫn là **gợi ý**.
 
 ### Các câu cần kiểm chứng
 
@@ -509,8 +524,8 @@ Dựa trên dữ liệu 4 đề, có thể dự đoán **có cơ sở** (không 
 | 2024 Q15 | Biển báo là hình | Đã render ảnh; đáp án C, khớp đáp án chính thức |
 | 2025 Q15 | Biển báo là hình | Đã render ảnh; đáp án A |
 | 2025 Q35–36 | Dạng điền 2–3 từ, có thể có biến thể | Đáp án gợi ý theo entry `provide` |
-| 2026R Q20 | `fame` là phương án gần nghĩa nhất với “reputation” | Đáp án C, độ tin cậy trung bình |
-| 2026R Q22 | `Dangerously` hơi khiên cưỡng, nhưng loại trừ được các phương án còn lại | Đáp án D, độ tin cậy trung bình |
+| 2026 Q20 | `fame` là phương án gần nghĩa nhất với “reputation” | Đáp án C, độ tin cậy trung bình |
+| 2026 Q22 | `Dangerously` hơi khiên cưỡng, nhưng loại trừ được các phương án còn lại | Đáp án D, độ tin cậy trung bình |
 
 ---
 
@@ -532,7 +547,7 @@ Dựa trên dữ liệu 4 đề, có thể dự đoán **có cơ sở** (không 
 
 > **2024 là đáp án chính thức.** Các cột còn lại là gợi ý do người phân tích tự giải. `T` = True, `F` = False.
 
-| Câu | 2023 | 2024 | 2025 | 2026R |
+| Câu | 2023 | 2024 | 2025 | 2026 |
 |---:|---|---|---|---|
 | 1 | B | C | D | B |
 | 2 | B | B | C | A |
@@ -604,7 +619,7 @@ Dựa trên dữ liệu 4 đề, có thể dự đoán **có cơ sở** (không 
 | 39 | She hasn’t written to her grandparents since last April. |
 | 40 | It was such awful weather that we couldn’t go picnicking as planned. |
 
-### Đề tham khảo 2026
+### Đề 2026 chính thức
 
 | Câu | Đáp án |
 |---:|---|

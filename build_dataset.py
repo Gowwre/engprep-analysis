@@ -43,11 +43,11 @@ EXAMS = [
         "key_status": "inferred",
     },
     {
-        "id": "2026R",
-        "label": "2026 đề tham khảo",
-        "short": "2026R",
-        "file": "english-thanh-nien-3232.pdf",
-        "official": False,
+        "id": "2026",
+        "label": "2026 chính thức",
+        "short": "2026",
+        "file": "ThiEngLop10-2026.pdf",
+        "official": True,
         "key_status": "inferred",
     },
 ]
@@ -180,7 +180,7 @@ ITEMS = {
         (39, "VII", "Rewrite", "Sentence transformation", "present perfect since", "", "Production", "She hasn't written to her grandparents since last April.", "High", ""),
         (40, "VII", "Rewrite", "Sentence transformation", "result such ... that", "", "Production", "It was such awful weather that we couldn't go picnicking as planned.", "High", ""),
     ],
-    "2026R": [
+    "2026": [
         (1, "I", "MCQ", "Pronunciation", "-ed ending", "", "Recognition", "B", "High", "frightened /d/; còn lại /ɪd/"),
         (2, "I", "MCQ", "Pronunciation", "vowel <e>", "", "Recognition", "A", "High", "chemist /k/; còn lại /s/"),
         (3, "I", "MCQ", "Stress", "2-syllable stress", "", "Recognition", "A", "High", "listen nhấn âm 1; còn lại âm 2"),
@@ -215,8 +215,8 @@ ITEMS = {
         (32, "V", "Gap-fill", "Word formation", "noun", "", "Application", "exhibition", "High", "exhibit → exhibition"),
         (33, "V", "Gap-fill", "Word formation", "adverb", "", "Application", "illegally", "High", "legal → illegally"),
         (34, "V", "Gap-fill", "Word formation", "noun (plural)", "", "Application", "explorers", "High", "explore → explorers"),
-        (35, "VI", "Phrase bank", "Sentence construction", "lexical chunk", "", "Production", "break the habit", "High", "cụm cố định"),
-        (36, "VI", "Phrase bank", "Sentence construction", "lexical chunk", "", "Production", "eating habits", "High", "cụm cố định"),
+        (35, "VI", "Dictionary gap-fill", "Sentence construction", "dictionary use", "", "Production", "break the habit", "High", "entry 'habit'; không quá 3 từ"),
+        (36, "VI", "Dictionary gap-fill", "Sentence construction", "dictionary use", "", "Production", "eating habits", "High", "entry 'habit'; không quá 3 từ"),
         (37, "VII", "Rewrite", "Sentence transformation", "wish", "", "Production", "Brenda wishes she had her own locker at school.", "High", ""),
         (38, "VII", "Rewrite", "Sentence transformation", "mind + V-ing", "", "Production", "Lucie doesn't mind helping her friends with exercises after class.", "High", ""),
         (39, "VII", "Rewrite", "Sentence transformation", "phrasal verb", "", "Production", "The shop has run out of roses.", "High", ""),
@@ -253,7 +253,7 @@ PASSAGES = {
         "cloze_topic": "School cooking club for the elderly (community)",
         "reading_topic": "Teenagers and sports (health/lifestyle)",
     },
-    "2026R": {
+    "2026": {
         "cloze": "Deepfake technology has challenged the relationship between seeing and believing. A deepfake is a digitally changed image, video or audio recording that makes a person appear to say or do something they never actually said or did. Although image controlling is not new, recent advantages in artificial intelligence have made the deepfake more realistic, cheaper to produce, and easier to spread. As a result, deepfakes have come into entertainment, business and personal life. When a deepfake is released, it continues to influence public opinion. A convincing fake video at a sensitive moment could damage a person's fame, affect opinions, or create panic before the truth is proved. Misinformation has a bad effect on the public even after it is corrected. Dangerously, deepfakes even make the public disbelieve and doubt all real information. Therefore, everyone should treat information with caution.",
         "reading": "I do a lot of mountain hiking, not climbing, so you know I'm talking about using feet, not ropes or pitons, to get me wherever I want, but my first law of relaxation is never to do a sport where a mistake can mean death. I recently discovered the hike of a lifetime: Cliff Trail on Vermont's highest peak, the 4,393-foot (1,338-meter) Mount Mansfield. There are many ways to climb the Mansfield, but Cliff Trail starts near the top, so I took a van there. I was hiking with a local guide. When we reached our destination, we hiked down a short path to Cliff Trail. For the rest of the morning, instead of going ever upwards, we climbed down wooden ladders, passed up rock faces, and crossed the side of the mountain. Besides mostly using feet, we used hands to hold onto roots, arms to pull us over steep rocks, and shoulders to get through narrow passages. Occasionally, my guide pushed and pulled me through the difficult spots. I was both scared and excited. We started at 10 a.m., reached the summit around 3 p.m., and stopped there for a long slow look at Vermont. The view was marvellous.",
         "cloze_topic": "Deepfake / AI (technology)",
@@ -414,7 +414,10 @@ def main() -> None:
         w.writerow(["grammar_topic", *exam_ids, "total"])
         for topic in sorted(
             {t for e in EXAMS for t in summary["exams"][e["id"]]["grammar_topics"]},
-            key=lambda t: -sum(summary["exams"][e["id"]]["grammar_topics"].get(t, 0) for e in EXAMS),
+            key=lambda t: (
+                -sum(summary["exams"][e["id"]]["grammar_topics"].get(t, 0) for e in EXAMS),
+                t,
+            ),
         ):
             vals = [summary["exams"][e["id"]]["grammar_topics"].get(topic, 0) for e in EXAMS]
             w.writerow([topic, *vals, sum(vals)])

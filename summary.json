@@ -220,9 +220,9 @@
         "False": 2
       }
     },
-    "2026R": {
-      "label": "2026 đề tham khảo",
-      "official": false,
+    "2026": {
+      "label": "2026 chính thức",
+      "official": true,
       "items": 40,
       "sections": {
         "I": {
