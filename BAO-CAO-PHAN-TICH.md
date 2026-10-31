@@ -5,7 +5,7 @@
 - **Dữ liệu:** 160 câu hỏi (40 câu mỗi đề), thang điểm 10, thời gian làm bài 90 phút.
 - **Cách phân tích:** phân loại đến từng câu, không chỉ thống kê theo từng phần.
 
-> **Về đáp án:** chỉ đề 2024–2025 có đáp án chính thức ở cuối PDF. Các đề 2023, 2025 và 2026 không kèm đáp án, nên phần đáp án trong báo cáo do người viết tự giải và được ghi rõ là **gợi ý**. Khi dùng để dạy hoặc ôn tập, thầy cô và học sinh nên đối chiếu lại với đáp án của Sở nếu có. Đề tham khảo 2026 gần như trùng với đề chính thức, nên chỉ dùng để kiểm chứng, không tính riêng trong thống kê.
+> **Về đáp án:** đề 2023, 2024 và 2025 đã có đáp án chính thức của Sở GD&ĐT TP.HCM. Đáp án 2026 không có trong PDF đề nên vẫn là **gợi ý** của người viết; đề tham khảo 2026 gần như trùng với đề chính thức nên được dùng để kiểm chứng. Khi dạy hoặc ôn tập, thầy cô và học sinh nên ưu tiên đáp án chính thức; với 2026, nên kiểm tra lại với đáp án của Sở nếu có.
 
 ---
 
@@ -29,12 +29,12 @@
 
 | Đề | Năm thi | Loại | Số trang | Đáp án |
 |---|---|---|---|---|
-| `TS-10-TA-TPHCM-2023-2024-1.pdf` | 2023 | Chính thức | 4 | Tự giải – gợi ý |
+| `TS-10-TA-TPHCM-2023-2024-1.pdf` | 2023 | Chính thức | 4 | **Chính thức** (PDF đáp án) |
 | `de-tieng-anh-2776.pdf` | 2024 | Chính thức | 4 | **Chính thức** (cuối PDF) |
-| `de-thi-ts10-nam-hoc-2025-2026-mon-tieng-anh-72283.pdf` | 2025 | Chính thức | 4 | Tự giải – gợi ý |
+| `de-thi-ts10-nam-hoc-2025-2026-mon-tieng-anh-72283.pdf` | 2025 | Chính thức | 4 | **Chính thức** (PDF đáp án) |
 | `ThiEngLop10-2026.pdf` | 2026 | Chính thức | 4 | Tự giải – gợi ý |
 
-> Đề tham khảo 2026 (`english-thanh-nien-3232.pdf`) gần như trùng với đề chính thức: cùng 40 câu, cùng đáp án, cùng bài đọc; chỉ khác cách ra phần VI. Vì vậy đề tham khảo không được tính riêng trong thống kê.
+> Đề tham khảo 2026 (`english-thanh-nien-3232.pdf`) gần như trùng với đề chính thức: cùng 40 câu, cùng đáp án, cùng bài đọc; chỉ khác cách ra phần VI. Vì vậy đề tham khảo không được tính riêng trong thống kê. Đáp án 2023 và 2025 đã được đối chiếu với các PDF đáp án chính thức của Sở GD&ĐT TP.HCM.
 
 **Cách làm:**
 
@@ -396,11 +396,11 @@ Hai đề gần đây nhất (2025 và 2026) **không còn yêu cầu sắp xế
 | 2026 | 7 | 3 | 8 | 6 | 24 | 3T/1F |
 | **Tổng** | **26** | **21** | **30** | **19** | **96** | **9T/7F** |
 
-Nhận xét:
+Trước hết, đối chiếu với đáp án chính thức của Sở, toàn bộ đáp án 2023 và 2025 trong báo cáo đều trùng khớp. Một số nhận xét:
 
-- Theo đáp án gợi ý, đề 2023 cân bằng hoàn hảo: mỗi phương án A, B, C, D đều có 6 câu.
-- Đề 2024 (chính thức) và 2025 (gợi ý) lệch về C (8 câu), còn D chỉ có 4 và 3 câu.
-- Đề 2026 chính thức lệch rõ hơn: C có 8 câu, B chỉ có 3 câu.
+- Theo đáp án chính thức, đề 2023 cân bằng hoàn hảo: mỗi phương án A, B, C, D đều có 6 câu.
+- Đề 2024 và 2025 (chính thức) lệch về C (8 câu), còn D chỉ có 4 và 3 câu.
+- Đề 2026 (gợi ý) lệch rõ hơn: C có 8 câu, B chỉ có 3 câu.
 - Trong tổng số 96 câu trắc nghiệm, C chiếm 31,3%, còn D chỉ 19,8%.
 
 **Cần lưu ý:** mẫu chỉ có 24 câu mỗi đề, nên không nên dùng cách “đếm chữ cái” để đoán đáp án. Quy luật cân bằng chỉ có giá trị **kiểm tra lại** sau khi đã làm bằng kiến thức.
@@ -508,22 +508,18 @@ Mỗi ngày 45–60 phút. Sau mỗi đề, ghi lỗi vào ba cột: **lỗi ki�
 ## 14. Những điểm cần lưu ý
 
 - Mẫu gồm **4 đề chính thức** (2023–2026); không phải mẫu ngẫu nhiên đại diện cho mọi năm. Đề tham khảo 2026 gần như trùng với đề chính thức nên không được tính riêng để tránh trùng lặp.
-- Đáp án 2023, 2025 và 2026 là **tự giải**, có thể sai ở một vài câu; đáp án 2024 là chính thức.
-- Một số câu phụ thuộc hình ảnh (biển báo) hoặc phần văn bản bị lỗi khi trích PDF; đáp án được suy ra từ phương án và ảnh chụp trang đề, có ghi chú độ tin cậy.
+- Đáp án 2023, 2024 và 2025 là **chính thức**; đáp án 2026 là **tự giải**, có thể sai ở một vài câu.
+- Một số câu phụ thuộc hình ảnh (biển báo) hoặc phần văn bản bị lỗi khi trích PDF; với đề 2026, đáp án được suy ra từ phương án và ảnh chụp trang đề, có ghi chú độ tin cậy.
 - Việc phân loại kỹ năng/mức nhận thức mang tính chủ quan; một câu có thể thuộc nhiều nhóm.
 - Các chỉ số đọc hiểu như Flesch-Kincaid có trong `passages.csv` nhưng **không dùng để xếp hạng độ khó**, vì công thức này không được thiết kế cho người học tiếng Anh và rất nhạy với độ dài đoạn.
 - Đề 2026 chính thức đã được đưa vào dữ liệu; tuy nhiên PDF không kèm đáp án chính thức, nên đáp án 2026 vẫn là **gợi ý**.
 
 ### Các câu cần kiểm chứng
 
+Đáp án 2023, 2024 và 2025 đã được đối chiếu với bản chính thức. Toàn bộ đáp án 2026 vẫn là gợi ý; hai câu sau có độ tin cậy trung bình:
+
 | Câu | Vấn đề | Cách xử lý |
 |---|---|---|
-| Câu 13, đề 2023 | Bản PDF in ra thiếu lời thoại của David, chỉ còn “David:” | Đáp án A suy ra từ phản hồi “Still a little worried…” |
-| Câu 15, đề 2023 | Biển báo là hình, trích văn bản không thấy nội dung | Đã chuyển trang đề thành ảnh; đáp án D |
-| Câu 10, đề 2024 | Lỗi chính tả “forger” thay vì “forget” | Không ảnh hưởng đáp án B |
-| Câu 15, đề 2024 | Biển báo là hình | Đã chuyển trang đề thành ảnh; đáp án C, khớp đáp án chính thức |
-| Câu 15, đề 2025 | Biển báo là hình | Đã chuyển trang đề thành ảnh; đáp án A |
-| Câu 35–36, đề 2025 | Dạng điền 2–3 từ, có thể có biến thể | Đáp án gợi ý theo mục từ `provide` |
 | Câu 20, đề 2026 | `fame` là phương án gần nghĩa nhất với “reputation” | Đáp án C, độ tin cậy trung bình |
 | Câu 22, đề 2026 | `Dangerously` hơi khiên cưỡng, nhưng loại trừ được các phương án còn lại | Đáp án D, độ tin cậy trung bình |
 
@@ -545,7 +541,7 @@ Mỗi ngày 45–60 phút. Sau mỗi đề, ghi lỗi vào ba cột: **lỗi ki�
 
 ## Phụ lục A. Đáp án gợi ý (câu 1–34)
 
-> **2024 là đáp án chính thức.** Các cột còn lại là gợi ý do người phân tích tự giải. `T` = True, `F` = False.
+> **2023, 2024 và 2025 là đáp án chính thức.** Riêng cột 2026 là gợi ý do người viết tự giải. `T` = True, `F` = False.
 
 | Câu | 2023 | 2024 | 2025 | 2026 |
 |---:|---|---|---|---|

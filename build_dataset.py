@@ -24,7 +24,7 @@ EXAMS = [
         "short": "2023",
         "file": "TS-10-TA-TPHCM-2023-2024-1.pdf",
         "official": True,
-        "key_status": "inferred",
+        "key_status": "official",
     },
     {
         "id": "2024",
@@ -40,7 +40,7 @@ EXAMS = [
         "short": "2025",
         "file": "de-thi-ts10-nam-hoc-2025-2026-mon-tieng-anh-72283.pdf",
         "official": True,
-        "key_status": "inferred",
+        "key_status": "official",
     },
     {
         "id": "2026",
@@ -312,7 +312,7 @@ def main() -> None:
                     "cognitive": cog,
                     "answer": answer,
                     "key_status": exam["key_status"],
-                    "confidence": conf,
+                    "confidence": "Official" if exam["key_status"] == "official" else conf,
                     "points": 0.25,
                     "note": note,
                 }

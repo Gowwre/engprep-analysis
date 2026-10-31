@@ -231,12 +231,12 @@ for k, (letter, col) in enumerate(zip(letters, letter_colors)):
         ax.text(bar.get_x() + bar.get_width() / 2, v + 0.12, str(v), ha="center", fontsize=9, color=MUTED)
 ax.axhline(6, color=MUTED, linestyle=(0, (4, 4)), linewidth=1)
 ax.set_xticks(x, ["2023", "2024", "2025", "2026"], fontsize=11)
-ax.set_ylim(0, 9.2)
+ax.set_ylim(0, 10)
 ax.set_ylabel("Số đáp án đúng / 24 câu trắc nghiệm")
 title_block(
     ax,
     "Phân bố đáp án trắc nghiệm theo từng đề",
-    "2024 là đáp án chính thức; các đề còn lại là gợi ý. Đường đứt: mức cân bằng 6/24.",
+    "2023, 2024 và 2025 là đáp án chính thức; 2026 là gợi ý. Đường đứt: mức cân bằng 6/24.",
 )
 ax.legend(ncol=4, frameon=False, loc="upper left", bbox_to_anchor=(0, 0.98))
 clean_axes(ax, grid_axis="y")

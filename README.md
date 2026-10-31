@@ -37,7 +37,7 @@ Các cột chính trong `exam_items.csv`:
 | `cognitive` | Nhận biết / Vận dụng / Suy luận / Sản sinh |
 | `answer` | Đáp án |
 | `key_status` | `official` hoặc `inferred` |
-| `confidence` | Độ tin cậy của đáp án tự giải |
+| `confidence` | Độ tin cậy của đáp án |
 
 ## Tạo lại
 
@@ -61,7 +61,7 @@ pandoc BAO-CAO-PHAN-TICH.md \
 
 ## Lưu ý
 
-- Chỉ đề 2024–2025 có đáp án chính thức. Các đáp án còn lại là gợi ý, được đánh dấu `inferred` trong CSV.
+- Đề 2023, 2024, 2025 có đáp án chính thức; riêng 2026 là gợi ý, được đánh dấu `inferred` trong CSV.
 - Đề 2026 là **đề chính thức**; đề tham khảo 2026 gần như trùng với đề chính thức nên không được tính riêng trong thống kê.
 - Việc phân loại kỹ năng/mức nhận thức là một cách mã hoá chủ quan; nên dùng để so sánh tương đối.
 - Các PDF gốc không được đưa vào repo; dữ liệu đã phân loại nằm trong `exam_items.csv` và `passages.csv`.
