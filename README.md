@@ -14,6 +14,7 @@ Thư mục này chứa dữ liệu và báo cáo phân tích 4 đề:
 - `index.html` — trang vào GitHub Pages, tự chuyển đến báo cáo.
 - `BAO-CAO-PHAN-TICH.md` — bản Markdown đầy đủ.
 - `bao-cao-phan-tich.html` — bản HTML có mục lục, biểu đồ và bảng; mở bằng trình duyệt.
+- `og-image.png` — ảnh xem trước 1200×630 dùng cho Open Graph/Twitter Card.
 - `figures/` — 6 biểu đồ dùng trong báo cáo.
 
 ## Dữ liệu
@@ -46,6 +47,7 @@ cd /home/radriar/Documents/EngPrep
 python3 analysis/build_dataset.py
 python3 analysis/make_charts.py
 cd analysis
+python3 make_og_image.py
 pandoc BAO-CAO-PHAN-TICH.md \
   --standalone \
   --template=report-template.html \
